@@ -1,0 +1,1332 @@
+[DEBUG]: 2022-07-10 12:58:42,846: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-10 12:58:42,846: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-10 12:58:42,846: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-10 13:16:34,864: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-10 13:16:34,864: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-10 13:16:34,864: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-10 13:16:34,864: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-10 13:16:34,864: root: We Entered into numbers of platform method
+[INFO]: 2022-07-10 13:16:34,864: root: we entered into price of each platform
+[INFO]: 2022-07-10 13:16:34,864: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-10 20:08:16,823: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-10 20:08:16,823: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-10 20:08:16,823: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-10 20:08:16,823: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-10 20:08:16,823: root: We Entered into numbers of platform method
+[INFO]: 2022-07-10 20:08:16,823: root: we entered into price of each platform
+[INFO]: 2022-07-10 20:08:16,823: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-10 20:08:16,823: root: We just intiated the ineuron_classes claas
+[DEBUG]: 2022-07-10 20:09:13,907: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-10 20:09:13,907: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-10 20:09:13,907: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-10 20:09:13,907: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-10 20:09:13,907: root: We Entered into numbers of platform method
+[INFO]: 2022-07-10 20:09:13,907: root: we entered into price of each platform
+[INFO]: 2022-07-10 20:09:13,907: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-10 20:09:13,907: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-10 20:09:13,907: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-10 20:09:13,907: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-10 20:09:13,907: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-10 20:10:27,055: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-10 20:10:27,055: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-10 20:10:27,055: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-10 20:10:27,055: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-10 20:10:27,055: root: We Entered into numbers of platform method
+[INFO]: 2022-07-10 20:10:27,055: root: we entered into price of each platform
+[INFO]: 2022-07-10 20:10:27,055: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-10 20:10:27,055: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-10 20:10:27,055: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-10 20:10:27,055: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-10 20:10:27,055: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-10 20:15:48,749: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-10 20:15:48,749: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-10 20:15:48,749: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-10 20:15:48,749: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-10 20:15:48,749: root: We Entered into numbers of platform method
+[INFO]: 2022-07-10 20:15:48,749: root: we entered into price of each platform
+[INFO]: 2022-07-10 20:15:48,749: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-10 20:15:48,749: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-10 20:15:48,749: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-10 20:15:48,749: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-10 20:15:48,749: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-10 20:15:48,749: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-10 20:15:48,749: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-10 21:17:24,862: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-10 21:17:24,862: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-10 21:17:24,862: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-10 21:17:24,862: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-10 21:17:24,878: root: We Entered into numbers of platform method
+[INFO]: 2022-07-10 21:17:24,878: root: we entered into price of each platform
+[INFO]: 2022-07-10 21:17:24,878: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-10 21:17:24,878: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-10 21:17:24,878: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-10 21:17:24,878: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-10 21:17:24,878: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-10 21:17:24,878: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-10 21:17:24,878: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-10 21:17:24,878: root: We just initialed ineuron_students class
+[INFO]: 2022-07-10 21:17:24,878: root: The achiever function has called
+[INFO]: 2022-07-10 21:17:24,878: root: The achiever function has called
+[ERROR]: 2022-07-10 21:17:24,878: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-10 21:17:24,878: root: The achiever function has called
+[INFO]: 2022-07-10 21:17:24,894: root: The achiever function has called
+[INFO]: 2022-07-10 21:17:24,894: root: The achiever function has called
+[DEBUG]: 2022-07-10 21:50:48,673: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-10 21:50:48,673: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-10 21:50:48,673: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-10 21:50:48,673: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-10 21:50:48,673: root: We Entered into numbers of platform method
+[INFO]: 2022-07-10 21:50:48,673: root: we entered into price of each platform
+[INFO]: 2022-07-10 21:50:48,673: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-10 21:50:48,673: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-10 21:50:48,673: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-10 21:50:48,673: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-10 21:50:48,689: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-10 21:50:48,689: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-10 21:50:48,689: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-10 21:50:48,689: root: We just initialed ineuron_students class
+[INFO]: 2022-07-10 21:50:48,689: root: The achiever function has called
+[INFO]: 2022-07-10 21:50:48,689: root: The achiever function has called
+[ERROR]: 2022-07-10 21:50:48,689: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-10 21:50:48,689: root: The achiever function has called
+[INFO]: 2022-07-10 21:50:48,689: root: The achiever function has called
+[INFO]: 2022-07-10 21:50:48,689: root: The achiever function has called
+[DEBUG]: 2022-07-10 21:50:48,689: root: We just initialed number of courses class 
+[ERROR]: 2022-07-10 21:50:48,689: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-10 21:52:23,755: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-10 21:52:23,761: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-10 21:52:23,761: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-10 21:52:23,762: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-10 21:52:23,762: root: We Entered into numbers of platform method
+[INFO]: 2022-07-10 21:52:23,763: root: we entered into price of each platform
+[INFO]: 2022-07-10 21:52:23,763: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-10 21:52:23,764: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-10 21:52:23,764: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-10 21:52:23,765: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-10 21:52:23,768: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-10 21:52:23,768: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-10 21:52:23,768: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-10 21:52:23,769: root: We just initialed ineuron_students class
+[INFO]: 2022-07-10 21:52:23,769: root: The achiever function has called
+[INFO]: 2022-07-10 21:52:23,769: root: The achiever function has called
+[ERROR]: 2022-07-10 21:52:23,769: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-10 21:52:23,770: root: The achiever function has called
+[INFO]: 2022-07-10 21:52:23,770: root: The achiever function has called
+[INFO]: 2022-07-10 21:52:23,770: root: The achiever function has called
+[DEBUG]: 2022-07-10 21:52:23,771: root: We just initialed number of courses class 
+[ERROR]: 2022-07-10 21:52:23,771: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-10 21:53:42,399: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-10 21:53:42,399: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-10 21:53:42,399: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-10 21:53:42,399: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-10 21:53:42,399: root: We Entered into numbers of platform method
+[INFO]: 2022-07-10 21:53:42,399: root: we entered into price of each platform
+[INFO]: 2022-07-10 21:53:42,399: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-10 21:53:42,399: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-10 21:53:42,399: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-10 21:53:42,399: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-10 21:53:42,399: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-10 21:53:42,399: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-10 21:53:42,399: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-10 21:53:42,399: root: We just initialed ineuron_students class
+[INFO]: 2022-07-10 21:53:42,399: root: The achiever function has called
+[INFO]: 2022-07-10 21:53:42,399: root: The achiever function has called
+[ERROR]: 2022-07-10 21:53:42,399: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-10 21:53:42,399: root: The achiever function has called
+[INFO]: 2022-07-10 21:53:42,399: root: The achiever function has called
+[INFO]: 2022-07-10 21:53:42,399: root: The achiever function has called
+[DEBUG]: 2022-07-10 21:53:42,399: root: We just initialed number of courses class 
+[ERROR]: 2022-07-10 21:53:42,399: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-10 21:54:18,107: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-10 21:54:18,107: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-10 21:54:18,107: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-10 21:54:18,107: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-10 21:54:18,107: root: We Entered into numbers of platform method
+[INFO]: 2022-07-10 21:54:18,107: root: we entered into price of each platform
+[INFO]: 2022-07-10 21:54:18,107: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-10 21:54:18,107: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-10 21:54:18,107: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-10 21:54:18,107: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-10 21:54:18,107: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-10 21:54:18,107: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-10 21:54:18,107: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-10 21:54:18,107: root: We just initialed ineuron_students class
+[INFO]: 2022-07-10 21:54:18,107: root: The achiever function has called
+[INFO]: 2022-07-10 21:54:18,107: root: The achiever function has called
+[ERROR]: 2022-07-10 21:54:18,107: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-10 21:54:18,107: root: The achiever function has called
+[INFO]: 2022-07-10 21:54:18,107: root: The achiever function has called
+[INFO]: 2022-07-10 21:54:18,107: root: The achiever function has called
+[DEBUG]: 2022-07-10 21:54:18,107: root: We just initialed number of courses class 
+[ERROR]: 2022-07-10 21:54:18,107: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: 2022-07-10 21:54:18,107: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: 2022-07-10 21:54:18,123: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-10 21:55:21,091: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-10 21:55:21,091: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-10 21:55:21,091: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-10 21:55:21,091: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-10 21:55:21,091: root: We Entered into numbers of platform method
+[INFO]: 2022-07-10 21:55:21,091: root: we entered into price of each platform
+[INFO]: 2022-07-10 21:55:21,091: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-10 21:55:21,091: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-10 21:55:21,091: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-10 21:55:21,091: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-10 21:55:21,091: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-10 21:55:21,091: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-10 21:55:21,091: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-10 21:55:21,091: root: We just initialed ineuron_students class
+[INFO]: 2022-07-10 21:55:21,091: root: The achiever function has called
+[INFO]: 2022-07-10 21:55:21,091: root: The achiever function has called
+[ERROR]: 2022-07-10 21:55:21,091: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-10 21:55:21,091: root: The achiever function has called
+[INFO]: 2022-07-10 21:55:21,091: root: The achiever function has called
+[INFO]: 2022-07-10 21:55:21,091: root: The achiever function has called
+[DEBUG]: 2022-07-10 21:55:21,091: root: We just initialed number of courses class 
+[ERROR]: 2022-07-10 21:55:21,091: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: 2022-07-10 21:55:21,091: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-10 21:55:47,406: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-10 21:55:47,406: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-10 21:55:47,406: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-10 21:55:47,406: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-10 21:55:47,406: root: We Entered into numbers of platform method
+[INFO]: 2022-07-10 21:55:47,406: root: we entered into price of each platform
+[INFO]: 2022-07-10 21:55:47,406: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-10 21:55:47,406: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-10 21:55:47,406: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-10 21:55:47,406: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-10 21:55:47,406: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-10 21:55:47,406: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-10 21:55:47,406: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-10 21:55:47,406: root: We just initialed ineuron_students class
+[INFO]: 2022-07-10 21:55:47,406: root: The achiever function has called
+[INFO]: 2022-07-10 21:55:47,406: root: The achiever function has called
+[ERROR]: 2022-07-10 21:55:47,406: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-10 21:55:47,422: root: The achiever function has called
+[INFO]: 2022-07-10 21:55:47,422: root: The achiever function has called
+[INFO]: 2022-07-10 21:55:47,422: root: The achiever function has called
+[DEBUG]: 2022-07-10 21:55:47,422: root: We just initialed number of courses class 
+[ERROR]: 2022-07-10 21:55:47,422: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: 2022-07-10 21:55:47,422: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-10 21:56:48,278: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-10 21:56:48,278: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-10 21:56:48,278: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-10 21:56:48,278: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-10 21:56:48,278: root: We Entered into numbers of platform method
+[INFO]: 2022-07-10 21:56:48,278: root: we entered into price of each platform
+[INFO]: 2022-07-10 21:56:48,278: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-10 21:56:48,278: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-10 21:56:48,278: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-10 21:56:48,278: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-10 21:56:48,278: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-10 21:56:48,278: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-10 21:56:48,278: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-10 21:56:48,278: root: We just initialed ineuron_students class
+[INFO]: 2022-07-10 21:56:48,278: root: The achiever function has called
+[INFO]: 2022-07-10 21:56:48,278: root: The achiever function has called
+[ERROR]: 2022-07-10 21:56:48,278: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-10 21:56:48,278: root: The achiever function has called
+[INFO]: 2022-07-10 21:56:48,278: root: The achiever function has called
+[INFO]: 2022-07-10 21:56:48,278: root: The achiever function has called
+[DEBUG]: 2022-07-10 21:56:48,278: root: We just initialed number of courses class 
+[ERROR]: 2022-07-10 21:56:48,278: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: 2022-07-10 21:56:48,278: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-11 00:07:37,966: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-11 00:07:37,966: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-11 00:07:37,966: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-11 00:07:37,966: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-11 00:07:37,966: root: We Entered into numbers of platform method
+[INFO]: 2022-07-11 00:07:37,966: root: we entered into price of each platform
+[INFO]: 2022-07-11 00:07:37,966: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-11 00:07:37,966: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-11 00:07:37,966: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 00:07:37,966: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-11 00:07:37,974: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-11 00:07:37,974: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 00:07:37,974: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-11 00:07:37,974: root: We just initialed ineuron_students class
+[INFO]: 2022-07-11 00:07:37,977: root: The achiever function has called
+[INFO]: 2022-07-11 00:07:37,977: root: The achiever function has called
+[ERROR]: 2022-07-11 00:07:37,977: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-11 00:07:37,977: root: The achiever function has called
+[INFO]: 2022-07-11 00:07:37,977: root: The achiever function has called
+[INFO]: 2022-07-11 00:07:37,977: root: The achiever function has called
+[DEBUG]: 2022-07-11 00:07:37,977: root: We just initialed number of courses class 
+[ERROR]: 2022-07-11 00:07:37,979: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: 2022-07-11 00:07:37,979: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-11 00:07:37,979: root: We just initiated iNeuron Affliate
+[DEBUG]: 2022-07-11 00:08:20,497: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-11 00:08:20,497: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-11 00:08:20,497: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-11 00:08:20,497: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-11 00:08:20,497: root: We Entered into numbers of platform method
+[INFO]: 2022-07-11 00:08:20,497: root: we entered into price of each platform
+[INFO]: 2022-07-11 00:08:20,497: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-11 00:08:20,497: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-11 00:08:20,497: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 00:08:20,497: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-11 00:08:20,497: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-11 00:08:20,505: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 00:08:20,506: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-11 00:08:20,506: root: We just initialed ineuron_students class
+[INFO]: 2022-07-11 00:08:20,506: root: The achiever function has called
+[INFO]: 2022-07-11 00:08:20,506: root: The achiever function has called
+[ERROR]: 2022-07-11 00:08:20,506: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-11 00:08:20,506: root: The achiever function has called
+[INFO]: 2022-07-11 00:08:20,506: root: The achiever function has called
+[INFO]: 2022-07-11 00:08:20,506: root: The achiever function has called
+[DEBUG]: 2022-07-11 00:08:20,506: root: We just initialed number of courses class 
+[ERROR]: 2022-07-11 00:08:20,506: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: 2022-07-11 00:08:20,506: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-11 00:08:20,506: root: We just initiated iNeuron Affliate
+[DEBUG]: 2022-07-11 00:08:25,555: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-11 00:08:25,555: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-11 00:08:25,555: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-11 00:08:25,555: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-11 00:08:25,555: root: We Entered into numbers of platform method
+[INFO]: 2022-07-11 00:08:25,555: root: we entered into price of each platform
+[INFO]: 2022-07-11 00:08:25,555: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-11 00:08:36,546: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-11 00:08:40,400: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 00:08:43,633: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:/Users/HP/PycharmProjects/OOPS_Task/main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-11 00:08:44,859: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-11 00:08:49,458: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 00:08:53,404: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:/Users/HP/PycharmProjects/OOPS_Task/main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-11 00:09:00,141: root: We just initialed ineuron_students class
+[INFO]: 2022-07-11 00:09:01,692: root: The achiever function has called
+[INFO]: 2022-07-11 00:09:02,697: root: The achiever function has called
+[ERROR]: 2022-07-11 00:09:07,110: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:/Users/HP/PycharmProjects/OOPS_Task/main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-11 00:09:10,277: root: The achiever function has called
+[INFO]: 2022-07-11 00:09:15,036: root: The achiever function has called
+[INFO]: 2022-07-11 00:09:24,507: root: The achiever function has called
+[DEBUG]: 2022-07-11 00:09:29,544: root: We just initialed number of courses class 
+[ERROR]: 2022-07-11 00:09:36,886: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:/Users/HP/PycharmProjects/OOPS_Task/main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: 2022-07-11 00:09:43,506: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:/Users/HP/PycharmProjects/OOPS_Task/main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-11 00:09:47,444: root: We just initiated iNeuron Affliate
+[DEBUG]: 2022-07-11 00:09:59,927: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-11 00:09:59,927: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-11 00:09:59,935: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-11 00:09:59,935: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-11 00:09:59,935: root: We Entered into numbers of platform method
+[INFO]: 2022-07-11 00:09:59,935: root: we entered into price of each platform
+[INFO]: 2022-07-11 00:09:59,935: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-11 00:09:59,935: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-11 00:09:59,935: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 00:09:59,935: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-11 00:09:59,935: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-11 00:09:59,935: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 00:09:59,935: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-11 00:09:59,942: root: We just initialed ineuron_students class
+[INFO]: 2022-07-11 00:09:59,942: root: The achiever function has called
+[INFO]: 2022-07-11 00:09:59,942: root: The achiever function has called
+[ERROR]: 2022-07-11 00:09:59,942: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-11 00:09:59,942: root: The achiever function has called
+[INFO]: 2022-07-11 00:09:59,942: root: The achiever function has called
+[INFO]: 2022-07-11 00:09:59,942: root: The achiever function has called
+[DEBUG]: 2022-07-11 00:09:59,942: root: We just initialed number of courses class 
+[ERROR]: 2022-07-11 00:09:59,942: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: 2022-07-11 00:09:59,942: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-11 00:09:59,942: root: We just initiated iNeuron Affliate
+[DEBUG]: 2022-07-11 00:10:38,992: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-11 00:10:38,992: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-11 00:10:39,000: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-11 00:10:39,000: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-11 00:10:39,000: root: We Entered into numbers of platform method
+[INFO]: 2022-07-11 00:10:39,000: root: we entered into price of each platform
+[INFO]: 2022-07-11 00:10:39,000: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-11 00:10:50,564: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-11 00:10:51,723: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 00:10:51,723: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:/Users/HP/PycharmProjects/OOPS_Task/main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-11 00:10:52,339: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-11 00:10:53,508: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 00:10:53,508: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:/Users/HP/PycharmProjects/OOPS_Task/main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-11 00:10:54,566: root: We just initialed ineuron_students class
+[INFO]: 2022-07-11 00:10:55,259: root: The achiever function has called
+[INFO]: 2022-07-11 00:10:56,068: root: The achiever function has called
+[ERROR]: 2022-07-11 00:10:56,565: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:/Users/HP/PycharmProjects/OOPS_Task/main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-11 00:10:56,810: root: The achiever function has called
+[INFO]: 2022-07-11 00:10:57,534: root: The achiever function has called
+[INFO]: 2022-07-11 00:10:58,184: root: The achiever function has called
+[DEBUG]: 2022-07-11 00:11:00,118: root: We just initialed number of courses class 
+[ERROR]: 2022-07-11 00:11:03,401: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:/Users/HP/PycharmProjects/OOPS_Task/main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: 2022-07-11 00:11:09,232: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:/Users/HP/PycharmProjects/OOPS_Task/main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-11 00:11:23,609: root: We just initiated iNeuron Affliate
+[DEBUG]: 2022-07-11 00:12:30,546: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-11 00:12:30,554: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-11 00:12:30,554: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-11 00:12:30,554: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-11 00:12:30,554: root: We Entered into numbers of platform method
+[INFO]: 2022-07-11 00:12:30,554: root: we entered into price of each platform
+[INFO]: 2022-07-11 00:12:30,554: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-11 00:12:30,554: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-11 00:12:30,554: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 00:12:30,554: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-11 00:12:30,554: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-11 00:12:30,554: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 00:12:30,554: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-11 00:12:30,554: root: We just initialed ineuron_students class
+[INFO]: 2022-07-11 00:12:30,554: root: The achiever function has called
+[INFO]: 2022-07-11 00:12:30,554: root: The achiever function has called
+[ERROR]: 2022-07-11 00:12:30,554: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-11 00:12:30,554: root: The achiever function has called
+[INFO]: 2022-07-11 00:12:30,554: root: The achiever function has called
+[INFO]: 2022-07-11 00:12:30,554: root: The achiever function has called
+[DEBUG]: 2022-07-11 00:12:30,562: root: We just initialed number of courses class 
+[ERROR]: 2022-07-11 00:12:30,563: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: 2022-07-11 00:12:30,563: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-11 00:12:30,563: root: We just initiated iNeuron Affliate
+[DEBUG]: 2022-07-11 00:12:30,563: root: This method describes about the refering of affliate
+[ERROR]: 2022-07-11 00:12:30,563: root: The value of program/name is null
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 193, in refer_affliate
+    raise ValueError('The value of program/name is null')
+ValueError: The value of program/name is null
+[DEBUG]: 2022-07-11 00:13:41,647: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-11 00:13:41,647: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-11 00:13:41,647: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-11 00:13:41,647: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-11 00:13:41,647: root: We Entered into numbers of platform method
+[INFO]: 2022-07-11 00:13:41,647: root: we entered into price of each platform
+[INFO]: 2022-07-11 00:13:41,655: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-11 00:13:41,655: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-11 00:13:41,655: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 00:13:41,655: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:/Users/HP/PycharmProjects/OOPS_Task/main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-11 00:13:41,655: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-11 00:13:41,663: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 00:13:41,663: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:/Users/HP/PycharmProjects/OOPS_Task/main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-11 00:13:41,663: root: We just initialed ineuron_students class
+[INFO]: 2022-07-11 00:13:41,663: root: The achiever function has called
+[INFO]: 2022-07-11 00:13:41,663: root: The achiever function has called
+[ERROR]: 2022-07-11 00:13:41,663: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:/Users/HP/PycharmProjects/OOPS_Task/main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-11 00:13:41,663: root: The achiever function has called
+[INFO]: 2022-07-11 00:13:41,663: root: The achiever function has called
+[INFO]: 2022-07-11 00:13:41,663: root: The achiever function has called
+[DEBUG]: 2022-07-11 00:13:41,672: root: We just initialed number of courses class 
+[ERROR]: 2022-07-11 00:13:41,672: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:/Users/HP/PycharmProjects/OOPS_Task/main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: 2022-07-11 00:13:41,672: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:/Users/HP/PycharmProjects/OOPS_Task/main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-11 00:13:57,903: root: We just initiated iNeuron Affliate
+[DEBUG]: 2022-07-11 00:14:23,786: root: This method describes about the refering of affliate
+[ERROR]: 2022-07-11 00:14:55,003: root: The value of program/name is null
+Traceback (most recent call last):
+  File "C:/Users/HP/PycharmProjects/OOPS_Task/main.py", line 193, in refer_affliate
+    raise ValueError('The value of program/name is null')
+ValueError: The value of program/name is null
+[DEBUG]: 2022-07-11 00:15:15,466: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-11 00:15:15,466: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-11 00:15:15,466: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-11 00:15:15,466: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-11 00:15:15,466: root: We Entered into numbers of platform method
+[INFO]: 2022-07-11 00:15:15,466: root: we entered into price of each platform
+[INFO]: 2022-07-11 00:15:15,466: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-11 00:15:15,466: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-11 00:15:15,475: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 00:15:15,475: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-11 00:15:15,475: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-11 00:15:15,475: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 00:15:15,475: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-11 00:15:15,475: root: We just initialed ineuron_students class
+[INFO]: 2022-07-11 00:15:15,475: root: The achiever function has called
+[INFO]: 2022-07-11 00:15:15,475: root: The achiever function has called
+[ERROR]: 2022-07-11 00:15:15,475: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-11 00:15:15,475: root: The achiever function has called
+[INFO]: 2022-07-11 00:15:15,475: root: The achiever function has called
+[INFO]: 2022-07-11 00:15:15,475: root: The achiever function has called
+[DEBUG]: 2022-07-11 00:15:15,475: root: We just initialed number of courses class 
+[ERROR]: 2022-07-11 00:15:15,475: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: 2022-07-11 00:15:15,475: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-11 00:15:15,475: root: We just initiated iNeuron Affliate
+[DEBUG]: 2022-07-11 00:15:15,475: root: This method describes about the refering of affliate
+[ERROR]: 2022-07-11 00:15:15,475: root: Ineuron_Affliate.create_affliate() missing 1 required positional argument: 'program'
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 195, in refer_affliate
+    return 'This is '+self.create_affliate()+' for your friend is '+ name
+TypeError: Ineuron_Affliate.create_affliate() missing 1 required positional argument: 'program'
+[DEBUG]: 2022-07-11 00:15:36,327: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-11 00:15:36,327: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-11 00:15:36,327: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-11 00:15:36,327: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-11 00:15:36,327: root: We Entered into numbers of platform method
+[INFO]: 2022-07-11 00:15:36,327: root: we entered into price of each platform
+[INFO]: 2022-07-11 00:15:36,327: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-11 00:15:36,327: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-11 00:15:36,327: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 00:15:36,327: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-11 00:15:36,327: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-11 00:15:36,327: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 00:15:36,327: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-11 00:15:36,327: root: We just initialed ineuron_students class
+[INFO]: 2022-07-11 00:15:36,327: root: The achiever function has called
+[INFO]: 2022-07-11 00:15:36,327: root: The achiever function has called
+[ERROR]: 2022-07-11 00:15:36,327: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-11 00:15:36,327: root: The achiever function has called
+[INFO]: 2022-07-11 00:15:36,327: root: The achiever function has called
+[INFO]: 2022-07-11 00:15:36,336: root: The achiever function has called
+[DEBUG]: 2022-07-11 00:15:36,336: root: We just initialed number of courses class 
+[ERROR]: 2022-07-11 00:15:36,336: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: 2022-07-11 00:15:36,336: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-11 00:15:36,336: root: We just initiated iNeuron Affliate
+[DEBUG]: 2022-07-11 00:15:36,336: root: This method describes about the refering of affliate
+[ERROR]: 2022-07-11 00:15:36,336: root: Ineuron_Affliate.create_affliate() missing 1 required positional argument: 'program'
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 195, in refer_affliate
+    return 'This is '+self.create_affliate()+' for your friend is '+ name
+TypeError: Ineuron_Affliate.create_affliate() missing 1 required positional argument: 'program'
+[DEBUG]: 2022-07-11 00:15:36,336: root: This method describes about the refering of affliate
+[ERROR]: 2022-07-11 00:15:36,336: root: object of type 'int' has no len()
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 192, in refer_affliate
+    if len(program) == 0 or len(name) == 0:
+TypeError: object of type 'int' has no len()
+[DEBUG]: 2022-07-11 00:15:36,336: root: This method describes about the earning of affliate
+[DEBUG]: 2022-07-11 00:16:20,935: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-11 00:16:20,935: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-11 00:16:20,935: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-11 00:16:20,935: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-11 00:16:20,935: root: We Entered into numbers of platform method
+[INFO]: 2022-07-11 00:16:20,935: root: we entered into price of each platform
+[INFO]: 2022-07-11 00:16:20,935: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-11 00:16:20,935: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-11 00:16:20,935: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 00:16:20,935: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-11 00:16:20,943: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-11 00:16:20,944: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 00:16:20,944: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-11 00:16:20,944: root: We just initialed ineuron_students class
+[INFO]: 2022-07-11 00:16:20,944: root: The achiever function has called
+[INFO]: 2022-07-11 00:16:20,944: root: The achiever function has called
+[ERROR]: 2022-07-11 00:16:20,944: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-11 00:16:20,944: root: The achiever function has called
+[INFO]: 2022-07-11 00:16:20,944: root: The achiever function has called
+[INFO]: 2022-07-11 00:16:20,944: root: The achiever function has called
+[DEBUG]: 2022-07-11 00:16:20,944: root: We just initialed number of courses class 
+[ERROR]: 2022-07-11 00:16:20,944: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: 2022-07-11 00:16:20,944: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-11 00:16:20,944: root: We just initiated iNeuron Affliate
+[DEBUG]: 2022-07-11 00:16:20,944: root: This method describes about the refering of affliate
+[DEBUG]: 2022-07-11 00:16:20,944: root: This method describes about the refering of affliate
+[ERROR]: 2022-07-11 00:16:20,944: root: object of type 'int' has no len()
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 192, in refer_affliate
+    if len(program) == 0 or len(name) == 0:
+TypeError: object of type 'int' has no len()
+[DEBUG]: 2022-07-11 00:16:20,944: root: This method describes about the earning of affliate
+[DEBUG]: 2022-07-11 00:17:16,138: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-11 00:17:16,138: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-11 00:17:16,138: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-11 00:17:16,138: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-11 00:17:16,138: root: We Entered into numbers of platform method
+[INFO]: 2022-07-11 00:17:16,138: root: we entered into price of each platform
+[INFO]: 2022-07-11 00:17:16,138: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-11 00:17:16,138: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-11 00:17:16,138: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 00:17:16,138: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-11 00:17:16,146: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-11 00:17:16,146: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 00:17:16,146: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-11 00:17:16,146: root: We just initialed ineuron_students class
+[INFO]: 2022-07-11 00:17:16,146: root: The achiever function has called
+[INFO]: 2022-07-11 00:17:16,146: root: The achiever function has called
+[ERROR]: 2022-07-11 00:17:16,146: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-11 00:17:16,146: root: The achiever function has called
+[INFO]: 2022-07-11 00:17:16,146: root: The achiever function has called
+[INFO]: 2022-07-11 00:17:16,146: root: The achiever function has called
+[DEBUG]: 2022-07-11 00:17:16,146: root: We just initialed number of courses class 
+[ERROR]: 2022-07-11 00:17:16,146: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: 2022-07-11 00:17:16,146: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-11 00:17:16,146: root: We just initiated iNeuron Affliate
+[DEBUG]: 2022-07-11 00:17:16,146: root: This method describes about the refering of affliate
+[DEBUG]: 2022-07-11 00:17:16,146: root: This method describes about the refering of affliate
+[ERROR]: 2022-07-11 00:17:16,146: root: object of type 'int' has no len()
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 192, in refer_affliate
+    if len(program) == 0 or len(name) == 0:
+TypeError: object of type 'int' has no len()
+[DEBUG]: 2022-07-11 00:17:16,146: root: This method describes about the earning of affliate
+[DEBUG]: 2022-07-11 11:47:26,872: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-11 11:47:26,874: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-11 11:47:26,875: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-11 11:47:26,875: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-11 11:47:26,875: root: We Entered into numbers of platform method
+[INFO]: 2022-07-11 11:47:26,875: root: we entered into price of each platform
+[INFO]: 2022-07-11 11:47:26,876: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-11 11:47:26,876: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-11 11:47:26,876: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 11:47:26,876: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-11 11:47:26,880: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-11 11:47:26,880: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 11:47:26,881: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-11 11:47:26,881: root: We just initialed ineuron_students class
+[INFO]: 2022-07-11 11:47:26,881: root: The achiever function has called
+[INFO]: 2022-07-11 11:47:26,882: root: The achiever function has called
+[ERROR]: 2022-07-11 11:47:26,882: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-11 11:47:26,883: root: The achiever function has called
+[INFO]: 2022-07-11 11:47:26,883: root: The achiever function has called
+[INFO]: 2022-07-11 11:47:26,883: root: The achiever function has called
+[DEBUG]: 2022-07-11 11:47:26,883: root: We just initialed number of courses class 
+[ERROR]: 2022-07-11 11:47:26,884: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: 2022-07-11 11:47:26,884: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-11 11:47:26,885: root: We just initiated iNeuron Affliate
+[DEBUG]: 2022-07-11 11:47:26,885: root: This method describes about the refering of affliate
+[DEBUG]: 2022-07-11 11:47:26,885: root: This method describes about the refering of affliate
+[ERROR]: 2022-07-11 11:47:26,885: root: object of type 'int' has no len()
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 192, in refer_affliate
+    if len(program) == 0 or len(name) == 0:
+TypeError: object of type 'int' has no len()
+[DEBUG]: 2022-07-11 11:47:26,886: root: This method describes about the earning of affliate
+[DEBUG]: 2022-07-11 11:47:26,886: root: we initialized the Ineuron Blog class
+[INFO]: 2022-07-11 11:47:26,886: root: This method describe about information blog
+[DEBUG]: 2022-07-11 11:47:26,887: root: This method describe about which type of blogs present in iNeuron
+[ERROR]: 2022-07-11 11:47:26,887: root: Entered is not a string please add string or character
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 239, in type_of_blog
+    raise Exception('Entered is not a string please add string or character')
+Exception: Entered is not a string please add string or character
+[DEBUG]: 2022-07-11 11:47:49,518: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-11 11:47:49,519: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-11 11:47:49,519: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-11 11:47:49,520: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-11 11:47:49,520: root: We Entered into numbers of platform method
+[INFO]: 2022-07-11 11:47:49,520: root: we entered into price of each platform
+[INFO]: 2022-07-11 11:47:49,520: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-11 11:47:49,520: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-11 11:47:49,521: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 11:47:49,521: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-11 11:47:49,523: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-11 11:47:49,523: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 11:47:49,523: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-11 11:47:49,524: root: We just initialed ineuron_students class
+[INFO]: 2022-07-11 11:47:49,524: root: The achiever function has called
+[INFO]: 2022-07-11 11:47:49,524: root: The achiever function has called
+[ERROR]: 2022-07-11 11:47:49,525: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-11 11:47:49,525: root: The achiever function has called
+[INFO]: 2022-07-11 11:47:49,526: root: The achiever function has called
+[INFO]: 2022-07-11 11:47:49,526: root: The achiever function has called
+[DEBUG]: 2022-07-11 11:47:49,526: root: We just initialed number of courses class 
+[ERROR]: 2022-07-11 11:47:49,526: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: 2022-07-11 11:47:49,529: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-11 11:47:49,530: root: We just initiated iNeuron Affliate
+[DEBUG]: 2022-07-11 11:47:49,530: root: This method describes about the refering of affliate
+[DEBUG]: 2022-07-11 11:47:49,530: root: This method describes about the refering of affliate
+[ERROR]: 2022-07-11 11:47:49,530: root: object of type 'int' has no len()
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 192, in refer_affliate
+    if len(program) == 0 or len(name) == 0:
+TypeError: object of type 'int' has no len()
+[DEBUG]: 2022-07-11 11:47:49,530: root: This method describes about the earning of affliate
+[DEBUG]: 2022-07-11 11:47:49,530: root: we initialized the Ineuron Blog class
+[INFO]: 2022-07-11 11:47:49,533: root: This method describe about information blog
+[DEBUG]: 2022-07-11 11:47:49,533: root: This method describe about which type of blogs present in iNeuron
+[ERROR]: 2022-07-11 11:47:49,534: root: Entered is not a string please add string or character
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 239, in type_of_blog
+    raise Exception('Entered is not a string please add string or character')
+Exception: Entered is not a string please add string or character
+[DEBUG]: 2022-07-11 11:47:49,535: root: This method describe about which type of blogs present in iNeuron
+[INFO]: 2022-07-11 11:47:49,535: root: This method describe about thank you blog
+[DEBUG]: 2022-07-11 12:02:01,753: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-11 12:02:01,753: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-11 12:02:01,753: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-11 12:02:01,753: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-11 12:02:01,753: root: We Entered into numbers of platform method
+[INFO]: 2022-07-11 12:02:01,754: root: we entered into price of each platform
+[INFO]: 2022-07-11 12:02:01,754: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-11 12:02:01,754: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-11 12:02:01,755: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 12:02:01,755: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-11 12:02:01,756: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-11 12:02:01,757: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 12:02:01,757: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-11 12:02:01,758: root: We just initialed ineuron_students class
+[INFO]: 2022-07-11 12:02:01,758: root: The achiever function has called
+[INFO]: 2022-07-11 12:02:01,758: root: The achiever function has called
+[ERROR]: 2022-07-11 12:02:01,759: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-11 12:02:01,759: root: The achiever function has called
+[INFO]: 2022-07-11 12:02:01,759: root: The achiever function has called
+[INFO]: 2022-07-11 12:02:01,759: root: The achiever function has called
+[DEBUG]: 2022-07-11 12:02:01,760: root: We just initialed number of courses class 
+[ERROR]: 2022-07-11 12:02:01,760: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: 2022-07-11 12:02:01,761: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-11 12:02:01,762: root: We just initiated iNeuron Affliate
+[DEBUG]: 2022-07-11 12:02:01,762: root: This method describes about the refering of affliate
+[DEBUG]: 2022-07-11 12:02:01,762: root: This method describes about the refering of affliate
+[ERROR]: 2022-07-11 12:02:01,763: root: object of type 'int' has no len()
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 192, in refer_affliate
+    if len(program) == 0 or len(name) == 0:
+TypeError: object of type 'int' has no len()
+[DEBUG]: 2022-07-11 12:02:01,763: root: This method describes about the earning of affliate
+[DEBUG]: 2022-07-11 12:02:01,763: root: we initialized the Ineuron Blog class
+[INFO]: 2022-07-11 12:02:01,764: root: This method describe about information blog
+[DEBUG]: 2022-07-11 12:02:01,764: root: This method describe about which type of blogs present in iNeuron
+[ERROR]: 2022-07-11 12:02:01,764: root: Entered is not a string please add string or character
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 239, in type_of_blog
+    raise Exception('Entered is not a string please add string or character')
+Exception: Entered is not a string please add string or character
+[DEBUG]: 2022-07-11 12:02:01,765: root: This method describe about which type of blogs present in iNeuron
+[INFO]: 2022-07-11 12:02:01,765: root: This method describe about thank you blog
+[DEBUG]: 2022-07-11 12:02:01,765: root: We Initiated Ineuron Jobs class
+[INFO]: 2022-07-11 12:02:01,765: root: which_jobs_can_apply method describe about how to apply jobs
+[INFO]: 2022-07-11 12:02:01,765: root: jobs method explains about process and how to apply for job
+[INFO]: 2022-07-11 12:02:01,766: root: who_can_apply_job method can describe about who can apply for job in ineuron jobs class
+[INFO]: 2022-07-11 12:02:01,766: root: who_can_apply_job method can describe about who can apply for job in ineuron jobs class
+[INFO]: 2022-07-11 12:02:01,766: root: which_jobs_can_apply method describe about how to apply jobs
+[INFO]: 2022-07-11 12:02:01,766: root: which_jobs_can_apply method describe about how to apply jobs
+[DEBUG]: 2022-07-11 12:24:01,759: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-11 12:24:01,759: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-11 12:24:01,760: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-11 12:24:01,760: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-11 12:24:01,760: root: We Entered into numbers of platform method
+[INFO]: 2022-07-11 12:24:01,760: root: we entered into price of each platform
+[INFO]: 2022-07-11 12:24:01,760: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-11 12:24:01,760: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-11 12:24:01,760: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 12:24:01,761: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-11 12:24:01,762: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-11 12:24:01,762: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 12:24:01,762: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-11 12:24:01,762: root: We just initialed ineuron_students class
+[INFO]: 2022-07-11 12:24:01,762: root: The achiever function has called
+[INFO]: 2022-07-11 12:24:01,762: root: The achiever function has called
+[ERROR]: 2022-07-11 12:24:01,763: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-11 12:24:01,764: root: The achiever function has called
+[INFO]: 2022-07-11 12:24:01,764: root: The achiever function has called
+[INFO]: 2022-07-11 12:24:01,765: root: The achiever function has called
+[DEBUG]: 2022-07-11 12:24:01,765: root: We just initialed number of courses class 
+[ERROR]: 2022-07-11 12:24:01,766: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: 2022-07-11 12:24:01,766: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-11 12:24:01,767: root: We just initiated iNeuron Affliate
+[DEBUG]: 2022-07-11 12:24:01,768: root: This method describes about the refering of affliate
+[DEBUG]: 2022-07-11 12:24:01,768: root: This method describes about the refering of affliate
+[ERROR]: 2022-07-11 12:24:01,769: root: object of type 'int' has no len()
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 192, in refer_affliate
+    if len(program) == 0 or len(name) == 0:
+TypeError: object of type 'int' has no len()
+[DEBUG]: 2022-07-11 12:24:01,770: root: This method describes about the earning of affliate
+[DEBUG]: 2022-07-11 12:24:01,770: root: we initialized the Ineuron Blog class
+[INFO]: 2022-07-11 12:24:01,771: root: This method describe about information blog
+[DEBUG]: 2022-07-11 12:24:01,771: root: This method describe about which type of blogs present in iNeuron
+[ERROR]: 2022-07-11 12:24:01,771: root: Entered is not a string please add string or character
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 239, in type_of_blog
+    raise Exception('Entered is not a string please add string or character')
+Exception: Entered is not a string please add string or character
+[DEBUG]: 2022-07-11 12:24:01,773: root: This method describe about which type of blogs present in iNeuron
+[INFO]: 2022-07-11 12:24:01,773: root: This method describe about thank you blog
+[DEBUG]: 2022-07-11 12:24:01,773: root: We Initiated Ineuron Jobs class
+[INFO]: 2022-07-11 12:24:01,775: root: which_jobs_can_apply method describe about how to apply jobs
+[INFO]: 2022-07-11 12:24:01,775: root: jobs method explains about process and how to apply for job
+[INFO]: 2022-07-11 12:24:01,775: root: who_can_apply_job method can describe about who can apply for job in ineuron jobs class
+[INFO]: 2022-07-11 12:24:01,776: root: who_can_apply_job method can describe about who can apply for job in ineuron jobs class
+[INFO]: 2022-07-11 12:24:01,776: root: which_jobs_can_apply method describe about how to apply jobs
+[INFO]: 2022-07-11 12:24:01,776: root: which_jobs_can_apply method describe about how to apply jobs
+[DEBUG]: 2022-07-11 12:24:01,777: root: We Initiated Ineuron Internship class
+[INFO]: 2022-07-11 12:24:01,777: root: intern will describe about process of internship
+[INFO]: 2022-07-11 12:24:01,777: root: apply_intern method describe about how to apply for internship
+[INFO]: 2022-07-11 12:24:01,778: root: how_to_apply_intern method describe about how to apply for internship
+[DEBUG]: 2022-07-11 12:26:40,466: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-11 12:26:40,467: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-11 12:26:40,467: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-11 12:26:40,467: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-11 12:26:40,467: root: We Entered into numbers of platform method
+[INFO]: 2022-07-11 12:26:40,467: root: we entered into price of each platform
+[INFO]: 2022-07-11 12:26:40,467: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-11 12:26:40,467: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-11 12:26:40,467: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 12:26:40,468: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-11 12:26:40,469: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-11 12:26:40,469: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-11 12:26:40,469: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-11 12:26:40,469: root: We just initialed ineuron_students class
+[INFO]: 2022-07-11 12:26:40,469: root: The achiever function has called
+[INFO]: 2022-07-11 12:26:40,470: root: The achiever function has called
+[ERROR]: 2022-07-11 12:26:40,470: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-11 12:26:40,470: root: The achiever function has called
+[INFO]: 2022-07-11 12:26:40,470: root: The achiever function has called
+[INFO]: 2022-07-11 12:26:40,470: root: The achiever function has called
+[DEBUG]: 2022-07-11 12:26:40,470: root: We just initialed number of courses class 
+[ERROR]: 2022-07-11 12:26:40,470: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: 2022-07-11 12:26:40,472: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-11 12:26:40,472: root: We just initiated iNeuron Affliate
+[DEBUG]: 2022-07-11 12:26:40,473: root: This method describes about the refering of affliate
+[DEBUG]: 2022-07-11 12:26:40,473: root: This method describes about the refering of affliate
+[ERROR]: 2022-07-11 12:26:40,473: root: object of type 'int' has no len()
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 192, in refer_affliate
+    if len(program) == 0 or len(name) == 0:
+TypeError: object of type 'int' has no len()
+[DEBUG]: 2022-07-11 12:26:40,474: root: This method describes about the earning of affliate
+[DEBUG]: 2022-07-11 12:26:40,474: root: we initialized the Ineuron Blog class
+[INFO]: 2022-07-11 12:26:40,474: root: This method describe about information blog
+[DEBUG]: 2022-07-11 12:26:40,474: root: This method describe about which type of blogs present in iNeuron
+[ERROR]: 2022-07-11 12:26:40,474: root: Entered is not a string please add string or character
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 239, in type_of_blog
+    raise Exception('Entered is not a string please add string or character')
+Exception: Entered is not a string please add string or character
+[DEBUG]: 2022-07-11 12:26:40,475: root: This method describe about which type of blogs present in iNeuron
+[INFO]: 2022-07-11 12:26:40,475: root: This method describe about thank you blog
+[DEBUG]: 2022-07-11 12:26:40,475: root: We Initiated Ineuron Jobs class
+[INFO]: 2022-07-11 12:26:40,475: root: which_jobs_can_apply method describe about how to apply jobs
+[INFO]: 2022-07-11 12:26:40,475: root: jobs method explains about process and how to apply for job
+[INFO]: 2022-07-11 12:26:40,476: root: who_can_apply_job method can describe about who can apply for job in ineuron jobs class
+[INFO]: 2022-07-11 12:26:40,476: root: who_can_apply_job method can describe about who can apply for job in ineuron jobs class
+[INFO]: 2022-07-11 12:26:40,476: root: which_jobs_can_apply method describe about how to apply jobs
+[INFO]: 2022-07-11 12:26:40,476: root: which_jobs_can_apply method describe about how to apply jobs
+[DEBUG]: 2022-07-11 12:26:40,476: root: We Initiated Ineuron Internship class
+[INFO]: 2022-07-11 12:26:40,476: root: intern will describe about process of internship
+[INFO]: 2022-07-11 12:26:40,477: root: apply_intern method describe about how to apply for internship
+[INFO]: 2022-07-11 12:26:40,477: root: how_to_apply_intern method describe about how to apply for internship
+[INFO]: 2022-07-11 12:26:40,477: root: adv method describe about advantages of internship
+[DEBUG]: 2022-07-12 23:34:25,932: root: We entered into init method to initialize values,Welcome to iNeuron
+[INFO]: 2022-07-12 23:34:25,935: root: This is method which tells about who can avail the course
+[INFO]: 2022-07-12 23:34:25,935: root: We entered into function which tells about speciality of iNeuron
+[DEBUG]: 2022-07-12 23:34:25,935: root: We have entered into iNeuron platform class
+[INFO]: 2022-07-12 23:34:25,936: root: We Entered into numbers of platform method
+[INFO]: 2022-07-12 23:34:25,936: root: we entered into price of each platform
+[INFO]: 2022-07-12 23:34:25,936: root: we entered into numbers of course offered in iNeuron platform
+[DEBUG]: 2022-07-12 23:34:25,936: root: We just initiated the ineuron_classes claas
+[DEBUG]: 2022-07-12 23:34:25,936: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-12 23:34:25,937: root: Entered value is not a string please enter string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 85, in class_type
+    raise Exception('Entered value is not a string please enter string')
+Exception: Entered value is not a string please enter string
+[DEBUG]: 2022-07-12 23:34:25,941: root: This method describes about the type of class in iNeuron
+[DEBUG]: 2022-07-12 23:34:25,942: root: This method describes about the type of class in iNeuron
+[ERROR]: 2022-07-12 23:34:25,943: root: The value entered is wrong please add live/community
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 83, in class_type
+    raise Exception('The value entered is wrong please add live/community')
+Exception: The value entered is wrong please add live/community
+[DEBUG]: 2022-07-12 23:34:25,943: root: We just initialed ineuron_students class
+[INFO]: 2022-07-12 23:34:25,943: root: The achiever function has called
+[INFO]: 2022-07-12 23:34:25,943: root: The achiever function has called
+[ERROR]: 2022-07-12 23:34:25,943: root: Please Enter valid student input
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 121, in type_of_stud
+    raise Exception('Please Enter valid student input')
+Exception: Please Enter valid student input
+[INFO]: 2022-07-12 23:34:25,943: root: The achiever function has called
+[INFO]: 2022-07-12 23:34:25,943: root: The achiever function has called
+[INFO]: 2022-07-12 23:34:25,943: root: The achiever function has called
+[DEBUG]: 2022-07-12 23:34:25,943: root: We just initialed number of courses class 
+[ERROR]: 2022-07-12 23:34:25,943: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: 2022-07-12 23:34:25,943: root: Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 161, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: 2022-07-12 23:34:25,943: root: We just initiated iNeuron Affliate
+[DEBUG]: 2022-07-12 23:34:25,943: root: This method describes about the refering of affliate
+[DEBUG]: 2022-07-12 23:34:25,943: root: This method describes about the refering of affliate
+[ERROR]: 2022-07-12 23:34:25,943: root: object of type 'int' has no len()
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 192, in refer_affliate
+    if len(program) == 0 or len(name) == 0:
+TypeError: object of type 'int' has no len()
+[DEBUG]: 2022-07-12 23:34:25,943: root: This method describes about the earning of affliate
+[DEBUG]: 2022-07-12 23:34:25,943: root: we initialized the Ineuron Blog class
+[INFO]: 2022-07-12 23:34:25,943: root: This method describe about information blog
+[DEBUG]: 2022-07-12 23:34:25,943: root: This method describe about which type of blogs present in iNeuron
+[ERROR]: 2022-07-12 23:34:25,943: root: Entered is not a string please add string or character
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\main.py", line 239, in type_of_blog
+    raise Exception('Entered is not a string please add string or character')
+Exception: Entered is not a string please add string or character
+[DEBUG]: 2022-07-12 23:34:25,943: root: This method describe about which type of blogs present in iNeuron
+[INFO]: 2022-07-12 23:34:25,943: root: This method describe about thank you blog
+[DEBUG]: 2022-07-12 23:34:25,943: root: We Initiated Ineuron Jobs class
+[INFO]: 2022-07-12 23:34:25,943: root: which_jobs_can_apply method describe about how to apply jobs
+[INFO]: 2022-07-12 23:34:25,943: root: jobs method explains about process and how to apply for job
+[INFO]: 2022-07-12 23:34:25,943: root: who_can_apply_job method can describe about who can apply for job in ineuron jobs class
+[INFO]: 2022-07-12 23:34:25,943: root: who_can_apply_job method can describe about who can apply for job in ineuron jobs class
+[INFO]: 2022-07-12 23:34:25,943: root: which_jobs_can_apply method describe about how to apply jobs
+[INFO]: 2022-07-12 23:34:25,943: root: which_jobs_can_apply method describe about how to apply jobs
+[DEBUG]: 2022-07-12 23:34:25,943: root: We Initiated Ineuron Internship class
+[INFO]: 2022-07-12 23:34:25,943: root: intern will describe about process of internship
+[INFO]: 2022-07-12 23:34:25,943: root: apply_intern method describe about how to apply for internship
+[INFO]: 2022-07-12 23:34:25,943: root: how_to_apply_intern method describe about how to apply for internship
+[INFO]: 2022-07-12 23:34:25,943: root: adv method describe about advantages of internship
+[DEBUG]: 2022-07-12 23:34:25,943: root: We Initiated Ineuron category courses 
+[INFO]: 2022-07-12 23:34:25,943: root: This method describe about prize for hackton winner 
+[INFO]: 2022-07-12 23:34:25,943: root: This is method describe about hackton info
+[INFO]: 2022-07-12 23:34:25,943: root: This method describe about ineuron hackton
+[INFO]: 2022-07-12 23:34:25,943: root: This method describe about prize for hackton winner 

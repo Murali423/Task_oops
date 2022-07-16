@@ -1,0 +1,712 @@
+[DEBUG]: 2022-07-13 11:26:33,061: root: We initiated values for Ineuron
+[INFO]: 2022-07-13 11:26:33,061: root: We entered to Info method which describe aobut company
+[DEBUG]: root : 2022-07-13 11:27:35,432 : We initiated values for Ineuron
+[INFO]: root : 2022-07-13 11:27:35,432 : We entered to Info method which describe aobut company
+[DEBUG]: root : 2022-07-13 11:28:28,263 : We initiated values for Ineuron
+[DEBUG]: root : 2022-07-13 11:35:13,056 : We initiated values for Ineuron
+[INFO]: root : 2022-07-13 11:35:13,056 : We entered to Info method which describe aobut company
+[DEBUG]: root : 2022-07-13 11:36:26,802 : We initiated values for Ineuron
+[INFO]: root : 2022-07-13 11:36:26,802 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-13 11:36:26,802 : Information has delivered
+[DEBUG]: root : 2022-07-13 11:55:48,067 : We initiated values for Ineuron
+[INFO]: root : 2022-07-13 11:55:48,067 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-13 11:55:48,067 : Information has delivered
+[INFO]: root : 2022-07-13 11:55:48,067 : We are defining the variables directly 
+[INFO]: root : 2022-07-13 11:55:48,067 : __init__ method is not initialized
+[DEBUG]: root : 2022-07-13 11:55:48,067 : student_info method describe about student information
+[INFO]: root : 2022-07-13 11:55:48,067 : This method give info about students
+[DEBUG]: root : 2022-07-13 11:56:06,450 : We initiated values for Ineuron
+[INFO]: root : 2022-07-13 11:56:06,450 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-13 11:56:06,450 : Information has delivered
+[INFO]: root : 2022-07-13 11:56:06,450 : We are defining the variables directly 
+[INFO]: root : 2022-07-13 11:56:06,450 : __init__ method is not initialized
+[DEBUG]: root : 2022-07-13 11:56:06,450 : student_info method describe about student information
+[INFO]: root : 2022-07-13 11:56:06,450 : This method give info about students
+[DEBUG]: root : 2022-07-13 11:56:43,993 : We initiated values for Ineuron
+[INFO]: root : 2022-07-13 11:56:43,993 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-13 11:56:43,993 : Information has delivered
+[INFO]: root : 2022-07-13 11:56:43,993 : We are defining the variables directly 
+[INFO]: root : 2022-07-13 11:56:43,993 : __init__ method is not initialized even though we can refer them by self.
+[DEBUG]: root : 2022-07-13 11:56:43,993 : student_info method describe about student information
+[INFO]: root : 2022-07-13 11:56:43,993 : This method give info about students
+[DEBUG]: root : 2022-07-14 10:36:24,623 : We initiated values for Ineuron
+[INFO]: root : 2022-07-14 10:36:24,623 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-14 10:36:24,623 : Information has delivered
+[INFO]: root : 2022-07-14 10:36:24,623 : We are defining the variables directly 
+[INFO]: root : 2022-07-14 10:36:24,623 : __init__ method is not initialized even though we can refer them by self.
+[DEBUG]: root : 2022-07-14 10:36:24,623 : student_info method describe about student information
+[INFO]: root : 2022-07-14 10:36:24,623 : This method give info about students
+[DEBUG]: root : 2022-07-14 10:36:24,623 : We are initiating the variable directly
+[DEBUG]: root : 2022-07-14 10:36:24,623 : course_info method describe about course info information
+[ERROR]: root : 2022-07-14 10:36:24,623 : given couser and mode should be string and price should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 76, in course_info
+    raise ValueError('given couser and mode should be string and price should be integer')
+ValueError: given couser and mode should be string and price should be integer
+[INFO]: root : 2022-07-14 10:36:24,638 : This statement from finally
+[DEBUG]: root : 2022-07-14 10:36:24,638 : course_info method describe about course info information
+[ERROR]: root : 2022-07-14 10:36:24,638 : given couser and mode should be string and price should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 76, in course_info
+    raise ValueError('given couser and mode should be string and price should be integer')
+ValueError: given couser and mode should be string and price should be integer
+[INFO]: root : 2022-07-14 10:36:24,638 : This statement from finally
+[DEBUG]: root : 2022-07-14 10:38:08,685 : We initiated values for Ineuron
+[INFO]: root : 2022-07-14 10:38:08,685 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-14 10:38:08,685 : Information has delivered
+[INFO]: root : 2022-07-14 10:38:08,685 : We are defining the variables directly 
+[INFO]: root : 2022-07-14 10:38:08,685 : __init__ method is not initialized even though we can refer them by self.
+[DEBUG]: root : 2022-07-14 10:38:08,685 : student_info method describe about student information
+[INFO]: root : 2022-07-14 10:38:08,685 : This method give info about students
+[DEBUG]: root : 2022-07-14 10:38:08,685 : We are initiating the variable directly
+[DEBUG]: root : 2022-07-14 10:38:08,685 : course_info method describe about course info information
+[ERROR]: root : 2022-07-14 10:38:08,685 : given couser and mode should be string and price should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 76, in course_info
+    raise ValueError('given couser and mode should be string and price should be integer')
+ValueError: given couser and mode should be string and price should be integer
+[INFO]: root : 2022-07-14 10:38:08,685 : This statement from finally
+[DEBUG]: root : 2022-07-14 10:38:08,685 : course_info method describe about course info information
+[ERROR]: root : 2022-07-14 10:38:08,685 : given couser and mode should be string and price should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 76, in course_info
+    raise ValueError('given couser and mode should be string and price should be integer')
+ValueError: given couser and mode should be string and price should be integer
+[INFO]: root : 2022-07-14 10:38:08,685 : This statement from finally
+[DEBUG]: root : 2022-07-14 10:38:34,732 : We initiated values for Ineuron
+[INFO]: root : 2022-07-14 10:38:34,748 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-14 10:38:34,748 : Information has delivered
+[INFO]: root : 2022-07-14 10:38:34,748 : We are defining the variables directly 
+[INFO]: root : 2022-07-14 10:38:34,748 : __init__ method is not initialized even though we can refer them by self.
+[DEBUG]: root : 2022-07-14 10:38:34,748 : student_info method describe about student information
+[INFO]: root : 2022-07-14 10:38:34,748 : This method give info about students
+[DEBUG]: root : 2022-07-14 10:38:34,748 : We are initiating the variable directly
+[DEBUG]: root : 2022-07-14 10:38:34,748 : course_info method describe about course info information
+[INFO]: root : 2022-07-14 10:38:34,748 : This statement from finally
+[DEBUG]: root : 2022-07-14 10:38:34,748 : course_info method describe about course info information
+[INFO]: root : 2022-07-14 10:38:34,748 : This statement from finally
+[DEBUG]: root : 2022-07-14 10:39:08,246 : We initiated values for Ineuron
+[INFO]: root : 2022-07-14 10:39:08,246 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-14 10:39:08,246 : Information has delivered
+[INFO]: root : 2022-07-14 10:39:08,246 : We are defining the variables directly 
+[INFO]: root : 2022-07-14 10:39:08,246 : __init__ method is not initialized even though we can refer them by self.
+[DEBUG]: root : 2022-07-14 10:39:08,246 : student_info method describe about student information
+[INFO]: root : 2022-07-14 10:39:08,246 : This method give info about students
+[DEBUG]: root : 2022-07-14 10:39:08,246 : We are initiating the variable directly
+[DEBUG]: root : 2022-07-14 10:39:08,246 : course_info method describe about course info information
+[INFO]: root : 2022-07-14 10:39:08,246 : This statement from finally
+[DEBUG]: root : 2022-07-14 10:39:08,246 : course_info method describe about course info information
+[INFO]: root : 2022-07-14 10:39:08,246 : This statement from finally
+[DEBUG]: root : 2022-07-14 10:39:30,950 : We initiated values for Ineuron
+[INFO]: root : 2022-07-14 10:39:30,950 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-14 10:39:30,950 : Information has delivered
+[INFO]: root : 2022-07-14 10:39:30,950 : We are defining the variables directly 
+[INFO]: root : 2022-07-14 10:39:30,950 : __init__ method is not initialized even though we can refer them by self.
+[DEBUG]: root : 2022-07-14 10:39:30,950 : student_info method describe about student information
+[INFO]: root : 2022-07-14 10:39:30,950 : This method give info about students
+[DEBUG]: root : 2022-07-14 10:39:30,950 : We are initiating the variable directly
+[DEBUG]: root : 2022-07-14 10:39:30,950 : course_info method describe about course info information
+[INFO]: root : 2022-07-14 10:39:30,950 : This statement from finally
+[DEBUG]: root : 2022-07-14 10:39:30,950 : course_info method describe about course info information
+[INFO]: root : 2022-07-14 10:39:30,950 : This statement from finally
+[DEBUG]: root : 2022-07-14 11:07:39,037 : We initiated values for Ineuron
+[INFO]: root : 2022-07-14 11:07:39,038 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-14 11:07:39,038 : Information has delivered
+[INFO]: root : 2022-07-14 11:07:39,038 : We are defining the variables directly 
+[INFO]: root : 2022-07-14 11:07:39,038 : __init__ method is not initialized even though we can refer them by self.
+[DEBUG]: root : 2022-07-14 11:07:39,038 : student_info method describe about student information
+[INFO]: root : 2022-07-14 11:07:39,039 : This method give info about students
+[DEBUG]: root : 2022-07-14 11:07:39,039 : We are initiating the variable directly
+[DEBUG]: root : 2022-07-14 11:07:39,039 : course_info method describe about course info information
+[INFO]: root : 2022-07-14 11:07:39,039 : This statement from finally
+[DEBUG]: root : 2022-07-14 11:07:39,039 : course_info method describe about course info information
+[INFO]: root : 2022-07-14 11:07:39,039 : This statement from finally
+[DEBUG]: root : 2022-07-14 11:07:39,039 : we are initializing the platform class
+[INFO]: root : 2022-07-14 11:07:39,039 : we are entered into private methods
+[INFO]: root : 2022-07-14 11:07:39,040 : we entered into price of each platform
+[INFO]: root : 2022-07-14 11:07:39,040 : we are entered into private methods
+[DEBUG]: root : 2022-07-14 11:07:39,040 : we are initializing the platform class
+[INFO]: root : 2022-07-14 11:07:39,040 : we entered into price of each platform
+[INFO]: root : 2022-07-14 11:07:39,040 : we are entered into private methods
+[DEBUG]: root : 2022-07-14 11:19:57,848 : We initiated values for Ineuron
+[INFO]: root : 2022-07-14 11:19:57,848 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-14 11:19:57,848 : Information has delivered
+[INFO]: root : 2022-07-14 11:19:57,848 : We are defining the variables directly 
+[INFO]: root : 2022-07-14 11:19:57,848 : __init__ method is not initialized even though we can refer them by self.
+[DEBUG]: root : 2022-07-14 11:19:57,848 : student_info method describe about student information
+[INFO]: root : 2022-07-14 11:19:57,848 : This method give info about students
+[DEBUG]: root : 2022-07-14 11:19:57,848 : We are initiating the variable directly
+[DEBUG]: root : 2022-07-14 11:19:57,848 : course_info method describe about course info information
+[INFO]: root : 2022-07-14 11:19:57,848 : This statement from finally
+[DEBUG]: root : 2022-07-14 11:19:57,848 : course_info method describe about course info information
+[INFO]: root : 2022-07-14 11:19:57,848 : This statement from finally
+[DEBUG]: root : 2022-07-14 11:19:57,848 : we are initializing the platform class
+[INFO]: root : 2022-07-14 11:19:57,848 : we are entered into private methods
+[INFO]: root : 2022-07-14 11:19:57,848 : we entered into price of each platform
+[INFO]: root : 2022-07-14 11:19:57,848 : we are entered into private methods
+[DEBUG]: root : 2022-07-14 11:19:57,848 : we are initializing the platform class
+[INFO]: root : 2022-07-14 11:19:57,848 : we entered into price of each platform
+[INFO]: root : 2022-07-14 11:19:57,848 : we are entered into private methods
+[INFO]: root : 2022-07-14 11:19:57,848 : area of circle returns the area of circle  
+[DEBUG]: root : 2022-07-14 11:20:36,366 : We initiated values for Ineuron
+[INFO]: root : 2022-07-14 11:20:36,366 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-14 11:20:36,366 : Information has delivered
+[INFO]: root : 2022-07-14 11:20:36,366 : We are defining the variables directly 
+[INFO]: root : 2022-07-14 11:20:36,366 : __init__ method is not initialized even though we can refer them by self.
+[DEBUG]: root : 2022-07-14 11:20:36,366 : student_info method describe about student information
+[INFO]: root : 2022-07-14 11:20:36,366 : This method give info about students
+[DEBUG]: root : 2022-07-14 11:20:36,366 : We are initiating the variable directly
+[DEBUG]: root : 2022-07-14 11:20:36,366 : course_info method describe about course info information
+[INFO]: root : 2022-07-14 11:20:36,366 : This statement from finally
+[DEBUG]: root : 2022-07-14 11:20:36,366 : course_info method describe about course info information
+[INFO]: root : 2022-07-14 11:20:36,366 : This statement from finally
+[DEBUG]: root : 2022-07-14 11:20:36,366 : we are initializing the platform class
+[INFO]: root : 2022-07-14 11:20:36,366 : we are entered into private methods
+[INFO]: root : 2022-07-14 11:20:36,366 : we entered into price of each platform
+[INFO]: root : 2022-07-14 11:20:36,366 : we are entered into private methods
+[DEBUG]: root : 2022-07-14 11:20:36,366 : we are initializing the platform class
+[INFO]: root : 2022-07-14 11:20:36,366 : we entered into price of each platform
+[INFO]: root : 2022-07-14 11:20:36,366 : we are entered into private methods
+[INFO]: root : 2022-07-14 11:20:36,366 : area of circle returns the area of circle  
+[INFO]: root : 2022-07-14 11:20:36,366 : area of circle returns the area of circle  
+[DEBUG]: root : 2022-07-14 12:00:18,208 : We initiated values for Ineuron
+[INFO]: root : 2022-07-14 12:00:18,208 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-14 12:00:18,208 : Information has delivered
+[INFO]: root : 2022-07-14 12:00:18,208 : We are defining the variables directly 
+[INFO]: root : 2022-07-14 12:00:18,208 : __init__ method is not initialized even though we can refer them by self.
+[DEBUG]: root : 2022-07-14 12:00:18,208 : student_info method describe about student information
+[INFO]: root : 2022-07-14 12:00:18,208 : This method give info about students
+[DEBUG]: root : 2022-07-14 12:00:18,208 : We are initiating the variable directly
+[DEBUG]: root : 2022-07-14 12:00:18,208 : course_info method describe about course info information
+[INFO]: root : 2022-07-14 12:00:18,208 : This statement from finally
+[DEBUG]: root : 2022-07-14 12:00:18,208 : course_info method describe about course info information
+[INFO]: root : 2022-07-14 12:00:18,208 : This statement from finally
+[DEBUG]: root : 2022-07-14 12:00:18,208 : we are initializing the platform class
+[INFO]: root : 2022-07-14 12:00:18,208 : we are entered into private methods
+[INFO]: root : 2022-07-14 12:00:18,208 : we entered into price of each platform
+[INFO]: root : 2022-07-14 12:00:18,208 : we are entered into private methods
+[DEBUG]: root : 2022-07-14 12:00:18,208 : we are initializing the platform class
+[INFO]: root : 2022-07-14 12:00:18,224 : we entered into price of each platform
+[INFO]: root : 2022-07-14 12:00:18,224 : we are entered into private methods
+[INFO]: root : 2022-07-14 12:00:18,224 : area of circle returns the area of circle  
+[INFO]: root : 2022-07-14 12:00:18,224 : area of circle returns the area of circle  
+[DEBUG]: root : 2022-07-14 12:00:18,224 : We are initiating the Jobs class
+[INFO]: root : 2022-07-14 12:00:18,224 : we initialized protected method
+[DEBUG]: root : 2022-07-14 12:00:42,502 : We initiated values for Ineuron
+[INFO]: root : 2022-07-14 12:00:42,502 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-14 12:00:42,502 : Information has delivered
+[INFO]: root : 2022-07-14 12:00:42,502 : We are defining the variables directly 
+[INFO]: root : 2022-07-14 12:00:42,502 : __init__ method is not initialized even though we can refer them by self.
+[DEBUG]: root : 2022-07-14 12:00:42,502 : student_info method describe about student information
+[INFO]: root : 2022-07-14 12:00:42,502 : This method give info about students
+[DEBUG]: root : 2022-07-14 12:00:42,502 : We are initiating the variable directly
+[DEBUG]: root : 2022-07-14 12:00:42,502 : course_info method describe about course info information
+[INFO]: root : 2022-07-14 12:00:42,502 : This statement from finally
+[DEBUG]: root : 2022-07-14 12:00:42,502 : course_info method describe about course info information
+[INFO]: root : 2022-07-14 12:00:42,502 : This statement from finally
+[DEBUG]: root : 2022-07-14 12:00:42,502 : we are initializing the platform class
+[INFO]: root : 2022-07-14 12:00:42,502 : we are entered into private methods
+[INFO]: root : 2022-07-14 12:00:42,502 : we entered into price of each platform
+[INFO]: root : 2022-07-14 12:00:42,502 : we are entered into private methods
+[DEBUG]: root : 2022-07-14 12:00:42,502 : we are initializing the platform class
+[INFO]: root : 2022-07-14 12:00:42,502 : we entered into price of each platform
+[INFO]: root : 2022-07-14 12:00:42,502 : we are entered into private methods
+[INFO]: root : 2022-07-14 12:00:42,502 : area of circle returns the area of circle  
+[INFO]: root : 2022-07-14 12:00:42,502 : area of circle returns the area of circle  
+[DEBUG]: root : 2022-07-14 12:00:42,502 : We are initiating the Jobs class
+[INFO]: root : 2022-07-14 12:00:42,502 : we initialized protected method
+[DEBUG]: root : 2022-07-14 12:01:55,647 : We initiated values for Ineuron
+[INFO]: root : 2022-07-14 12:01:55,647 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-14 12:01:55,647 : Information has delivered
+[INFO]: root : 2022-07-14 12:01:55,647 : We are defining the variables directly 
+[INFO]: root : 2022-07-14 12:01:55,647 : __init__ method is not initialized even though we can refer them by self.
+[DEBUG]: root : 2022-07-14 12:01:55,647 : student_info method describe about student information
+[INFO]: root : 2022-07-14 12:01:55,647 : This method give info about students
+[DEBUG]: root : 2022-07-14 12:01:55,647 : We are initiating the variable directly
+[DEBUG]: root : 2022-07-14 12:01:55,647 : course_info method describe about course info information
+[INFO]: root : 2022-07-14 12:01:55,647 : This statement from finally
+[DEBUG]: root : 2022-07-14 12:01:55,647 : course_info method describe about course info information
+[INFO]: root : 2022-07-14 12:01:55,647 : This statement from finally
+[DEBUG]: root : 2022-07-14 12:01:55,647 : we are initializing the platform class
+[INFO]: root : 2022-07-14 12:01:55,647 : we are entered into private methods
+[INFO]: root : 2022-07-14 12:01:55,647 : we entered into price of each platform
+[INFO]: root : 2022-07-14 12:01:55,647 : we are entered into private methods
+[DEBUG]: root : 2022-07-14 12:01:55,647 : we are initializing the platform class
+[INFO]: root : 2022-07-14 12:01:55,647 : we entered into price of each platform
+[INFO]: root : 2022-07-14 12:01:55,647 : we are entered into private methods
+[INFO]: root : 2022-07-14 12:01:55,647 : area of circle returns the area of circle  
+[INFO]: root : 2022-07-14 12:01:55,647 : area of circle returns the area of circle  
+[DEBUG]: root : 2022-07-14 12:01:55,647 : We are initiating the Jobs class
+[INFO]: root : 2022-07-14 12:01:55,647 : we initialized protected method
+[DEBUG]: root : 2022-07-14 12:01:55,647 : We are initiating the Jobs class
+[INFO]: root : 2022-07-14 12:01:55,647 : we initialized protected method
+[ERROR]: root : 2022-07-14 12:01:55,647 : both values should be string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 157, in _job_info
+    raise ValueError('both values should be string')
+ValueError: both values should be string
+[DEBUG]: root : 2022-07-14 12:27:20,681 : We initiated values for Ineuron
+[INFO]: root : 2022-07-14 12:27:20,681 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-14 12:27:20,681 : Information has delivered
+[INFO]: root : 2022-07-14 12:27:20,681 : We are defining the variables directly 
+[INFO]: root : 2022-07-14 12:27:20,681 : __init__ method is not initialized even though we can refer them by self.
+[DEBUG]: root : 2022-07-14 12:27:20,681 : student_info method describe about student information
+[INFO]: root : 2022-07-14 12:27:20,681 : This method give info about students
+[DEBUG]: root : 2022-07-14 12:27:20,681 : We are initiating the variable directly
+[DEBUG]: root : 2022-07-14 12:27:20,681 : course_info method describe about course info information
+[INFO]: root : 2022-07-14 12:27:20,681 : This statement from finally
+[DEBUG]: root : 2022-07-14 12:27:20,681 : course_info method describe about course info information
+[INFO]: root : 2022-07-14 12:27:20,681 : This statement from finally
+[DEBUG]: root : 2022-07-14 12:27:20,681 : we are initializing the platform class
+[INFO]: root : 2022-07-14 12:27:20,681 : we are entered into private methods
+[INFO]: root : 2022-07-14 12:27:20,681 : we entered into price of each platform
+[INFO]: root : 2022-07-14 12:27:20,681 : we are entered into private methods
+[DEBUG]: root : 2022-07-14 12:27:20,681 : we are initializing the platform class
+[INFO]: root : 2022-07-14 12:27:20,681 : we entered into price of each platform
+[INFO]: root : 2022-07-14 12:27:20,681 : we are entered into private methods
+[INFO]: root : 2022-07-14 12:27:20,681 : area of circle returns the area of circle  
+[INFO]: root : 2022-07-14 12:27:20,681 : area of circle returns the area of circle  
+[DEBUG]: root : 2022-07-14 12:27:20,681 : We are initiating the Jobs class
+[INFO]: root : 2022-07-14 12:27:20,681 : we initialized protected method
+[DEBUG]: root : 2022-07-14 12:27:20,681 : We are initiating the Jobs class
+[INFO]: root : 2022-07-14 12:27:20,681 : we initialized protected method
+[ERROR]: root : 2022-07-14 12:27:20,681 : both values should be string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 157, in _job_info
+    raise ValueError('both values should be string')
+ValueError: both values should be string
+[DEBUG]: root : 2022-07-14 12:27:20,681 : We are initializing employee class
+[INFO]: root : 2022-07-14 12:27:20,681 : This method describe about the employee details
+[INFO]: root : 2022-07-14 12:27:20,681 : This method describe about the employee info
+[INFO]: root : 2022-07-14 12:27:20,681 : This method describe about the employee salary info
+[ERROR]: root : 2022-07-14 12:27:20,681 : value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 190, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[INFO]: root : 2022-07-14 12:27:20,681 : This method describe about the employee salary info
+[ERROR]: root : 2022-07-14 12:27:20,681 : value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 190, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[DEBUG]: root : 2022-07-15 10:58:44,256 : We initiated values for Ineuron
+[INFO]: root : 2022-07-15 10:58:44,261 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-15 10:58:44,261 : Information has delivered
+[INFO]: root : 2022-07-15 10:58:44,261 : We are defining the variables directly 
+[INFO]: root : 2022-07-15 10:58:44,261 : __init__ method is not initialized even though we can refer them by self.
+[DEBUG]: root : 2022-07-15 10:58:44,261 : student_info method describe about student information
+[INFO]: root : 2022-07-15 10:58:44,261 : This method give info about students
+[DEBUG]: root : 2022-07-15 10:58:44,261 : We are initiating the variable directly
+[DEBUG]: root : 2022-07-15 10:58:44,261 : course_info method describe about course info information
+[INFO]: root : 2022-07-15 10:58:44,261 : This statement from finally
+[DEBUG]: root : 2022-07-15 10:58:44,261 : course_info method describe about course info information
+[INFO]: root : 2022-07-15 10:58:44,261 : This statement from finally
+[DEBUG]: root : 2022-07-15 10:58:44,261 : we are initializing the platform class
+[INFO]: root : 2022-07-15 10:58:44,261 : we are entered into private methods
+[INFO]: root : 2022-07-15 10:58:44,261 : we entered into price of each platform
+[INFO]: root : 2022-07-15 10:58:44,266 : we are entered into private methods
+[DEBUG]: root : 2022-07-15 10:58:44,266 : we are initializing the platform class
+[INFO]: root : 2022-07-15 10:58:44,266 : we entered into price of each platform
+[INFO]: root : 2022-07-15 10:58:44,266 : we are entered into private methods
+[INFO]: root : 2022-07-15 10:58:44,266 : area of circle returns the area of circle  
+[INFO]: root : 2022-07-15 10:58:44,266 : area of circle returns the area of circle  
+[DEBUG]: root : 2022-07-15 10:58:44,266 : We are initiating the Jobs class
+[INFO]: root : 2022-07-15 10:58:44,266 : we initialized protected method
+[DEBUG]: root : 2022-07-15 10:58:44,266 : We are initiating the Jobs class
+[INFO]: root : 2022-07-15 10:58:44,266 : we initialized protected method
+[ERROR]: root : 2022-07-15 10:58:44,266 : both values should be string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 157, in _job_info
+    raise ValueError('both values should be string')
+ValueError: both values should be string
+[DEBUG]: root : 2022-07-15 10:58:44,271 : We are initializing employee class
+[INFO]: root : 2022-07-15 10:58:44,271 : This method describe about the employee details
+[INFO]: root : 2022-07-15 10:58:44,271 : This method describe about the employee info
+[INFO]: root : 2022-07-15 10:58:44,271 : This method describe about the employee salary info
+[ERROR]: root : 2022-07-15 10:58:44,271 : value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 190, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[INFO]: root : 2022-07-15 10:58:44,271 : This method describe about the employee salary info
+[ERROR]: root : 2022-07-15 10:58:44,271 : value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 190, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[DEBUG]: root : 2022-07-15 10:58:44,271 : We are initializing the values for Music application
+[INFO]: root : 2022-07-15 10:58:44,271 : music info describe about what kind of app
+[DEBUG]: root : 2022-07-15 10:59:39,926 : We initiated values for Ineuron
+[INFO]: root : 2022-07-15 10:59:39,926 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-15 10:59:39,926 : Information has delivered
+[INFO]: root : 2022-07-15 10:59:39,926 : We are defining the variables directly 
+[INFO]: root : 2022-07-15 10:59:39,926 : __init__ method is not initialized even though we can refer them by self.
+[DEBUG]: root : 2022-07-15 10:59:39,926 : student_info method describe about student information
+[INFO]: root : 2022-07-15 10:59:39,926 : This method give info about students
+[DEBUG]: root : 2022-07-15 10:59:39,926 : We are initiating the variable directly
+[DEBUG]: root : 2022-07-15 10:59:39,926 : course_info method describe about course info information
+[INFO]: root : 2022-07-15 10:59:39,926 : This statement from finally
+[DEBUG]: root : 2022-07-15 10:59:39,926 : course_info method describe about course info information
+[INFO]: root : 2022-07-15 10:59:39,931 : This statement from finally
+[DEBUG]: root : 2022-07-15 10:59:39,931 : we are initializing the platform class
+[INFO]: root : 2022-07-15 10:59:39,931 : we are entered into private methods
+[INFO]: root : 2022-07-15 10:59:39,931 : we entered into price of each platform
+[INFO]: root : 2022-07-15 10:59:39,931 : we are entered into private methods
+[DEBUG]: root : 2022-07-15 10:59:39,931 : we are initializing the platform class
+[INFO]: root : 2022-07-15 10:59:39,931 : we entered into price of each platform
+[INFO]: root : 2022-07-15 10:59:39,931 : we are entered into private methods
+[INFO]: root : 2022-07-15 10:59:39,931 : area of circle returns the area of circle  
+[INFO]: root : 2022-07-15 10:59:39,931 : area of circle returns the area of circle  
+[DEBUG]: root : 2022-07-15 10:59:39,931 : We are initiating the Jobs class
+[INFO]: root : 2022-07-15 10:59:39,931 : we initialized protected method
+[DEBUG]: root : 2022-07-15 10:59:39,931 : We are initiating the Jobs class
+[INFO]: root : 2022-07-15 10:59:39,931 : we initialized protected method
+[ERROR]: root : 2022-07-15 10:59:39,931 : both values should be string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 157, in _job_info
+    raise ValueError('both values should be string')
+ValueError: both values should be string
+[DEBUG]: root : 2022-07-15 10:59:39,931 : We are initializing employee class
+[INFO]: root : 2022-07-15 10:59:39,931 : This method describe about the employee details
+[INFO]: root : 2022-07-15 10:59:39,931 : This method describe about the employee info
+[INFO]: root : 2022-07-15 10:59:39,936 : This method describe about the employee salary info
+[ERROR]: root : 2022-07-15 10:59:39,936 : value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 190, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[INFO]: root : 2022-07-15 10:59:39,937 : This method describe about the employee salary info
+[ERROR]: root : 2022-07-15 10:59:39,937 : value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 190, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[DEBUG]: root : 2022-07-15 10:59:39,937 : We are initializing the values for Music application
+[INFO]: root : 2022-07-15 10:59:39,937 : music info describe about what kind of app
+[INFO]: root : 2022-07-15 10:59:39,937 : music_app_details method explain about details of music
+[INFO]: root : 2022-07-15 10:59:39,937 : music info describe about what kind of app
+[INFO]: root : 2022-07-15 10:59:39,937 : Finally you can enjoy music
+[DEBUG]: root : 2022-07-15 11:01:04,844 : We initiated values for Ineuron
+[INFO]: root : 2022-07-15 11:01:04,844 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-15 11:01:04,844 : Information has delivered
+[INFO]: root : 2022-07-15 11:01:04,844 : We are defining the variables directly 
+[INFO]: root : 2022-07-15 11:01:04,846 : __init__ method is not initialized even though we can refer them by self.
+[DEBUG]: root : 2022-07-15 11:01:04,846 : student_info method describe about student information
+[INFO]: root : 2022-07-15 11:01:04,846 : This method give info about students
+[DEBUG]: root : 2022-07-15 11:01:04,846 : We are initiating the variable directly
+[DEBUG]: root : 2022-07-15 11:01:04,846 : course_info method describe about course info information
+[INFO]: root : 2022-07-15 11:01:04,846 : This statement from finally
+[DEBUG]: root : 2022-07-15 11:01:04,846 : course_info method describe about course info information
+[INFO]: root : 2022-07-15 11:01:04,846 : This statement from finally
+[DEBUG]: root : 2022-07-15 11:01:04,846 : we are initializing the platform class
+[INFO]: root : 2022-07-15 11:01:04,846 : we are entered into private methods
+[INFO]: root : 2022-07-15 11:01:04,846 : we entered into price of each platform
+[INFO]: root : 2022-07-15 11:01:04,846 : we are entered into private methods
+[DEBUG]: root : 2022-07-15 11:01:04,846 : we are initializing the platform class
+[INFO]: root : 2022-07-15 11:01:04,846 : we entered into price of each platform
+[INFO]: root : 2022-07-15 11:01:04,846 : we are entered into private methods
+[INFO]: root : 2022-07-15 11:01:04,846 : area of circle returns the area of circle  
+[INFO]: root : 2022-07-15 11:01:04,846 : area of circle returns the area of circle  
+[DEBUG]: root : 2022-07-15 11:01:04,846 : We are initiating the Jobs class
+[INFO]: root : 2022-07-15 11:01:04,846 : we initialized protected method
+[DEBUG]: root : 2022-07-15 11:01:04,846 : We are initiating the Jobs class
+[INFO]: root : 2022-07-15 11:01:04,846 : we initialized protected method
+[ERROR]: root : 2022-07-15 11:01:04,846 : both values should be string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 157, in _job_info
+    raise ValueError('both values should be string')
+ValueError: both values should be string
+[DEBUG]: root : 2022-07-15 11:01:04,851 : We are initializing employee class
+[INFO]: root : 2022-07-15 11:01:04,851 : This method describe about the employee details
+[INFO]: root : 2022-07-15 11:01:04,851 : This method describe about the employee info
+[INFO]: root : 2022-07-15 11:01:04,851 : This method describe about the employee salary info
+[ERROR]: root : 2022-07-15 11:01:04,851 : value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 190, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[INFO]: root : 2022-07-15 11:01:04,854 : This method describe about the employee salary info
+[ERROR]: root : 2022-07-15 11:01:04,854 : value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 190, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[DEBUG]: root : 2022-07-15 11:01:04,854 : We are initializing the values for Music application
+[INFO]: root : 2022-07-15 11:01:04,854 : music info describe about what kind of app
+[INFO]: root : 2022-07-15 11:01:04,854 : music_app_details method explain about details of music
+[INFO]: root : 2022-07-15 11:01:04,854 : music info describe about what kind of app
+[INFO]: root : 2022-07-15 11:01:04,854 : Finally you can enjoy music
+[DEBUG]: root : 2022-07-15 11:01:04,854 : We are initializing the values for Music application
+[INFO]: root : 2022-07-15 11:01:04,856 : music_app_details method explain about details of music
+[INFO]: root : 2022-07-15 11:01:04,856 : music info describe about what kind of app
+[INFO]: root : 2022-07-15 11:01:04,856 : Finally you can enjoy music
+[DEBUG]: root : 2022-07-15 11:03:26,484 : We initiated values for Ineuron
+[INFO]: root : 2022-07-15 11:03:26,484 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-15 11:03:26,484 : Information has delivered
+[INFO]: root : 2022-07-15 11:03:26,484 : We are defining the variables directly 
+[INFO]: root : 2022-07-15 11:03:26,484 : __init__ method is not initialized even though we can refer them by self.
+[DEBUG]: root : 2022-07-15 11:03:26,484 : student_info method describe about student information
+[INFO]: root : 2022-07-15 11:03:26,484 : This method give info about students
+[DEBUG]: root : 2022-07-15 11:03:26,484 : We are initiating the variable directly
+[DEBUG]: root : 2022-07-15 11:03:26,484 : course_info method describe about course info information
+[INFO]: root : 2022-07-15 11:03:26,484 : This statement from finally
+[DEBUG]: root : 2022-07-15 11:03:26,484 : course_info method describe about course info information
+[INFO]: root : 2022-07-15 11:03:26,484 : This statement from finally
+[DEBUG]: root : 2022-07-15 11:03:26,484 : we are initializing the platform class
+[INFO]: root : 2022-07-15 11:03:26,484 : we are entered into private methods
+[INFO]: root : 2022-07-15 11:03:26,484 : we entered into price of each platform
+[INFO]: root : 2022-07-15 11:03:26,484 : we are entered into private methods
+[DEBUG]: root : 2022-07-15 11:03:26,484 : we are initializing the platform class
+[INFO]: root : 2022-07-15 11:03:26,484 : we entered into price of each platform
+[INFO]: root : 2022-07-15 11:03:26,484 : we are entered into private methods
+[INFO]: root : 2022-07-15 11:03:26,489 : area of circle returns the area of circle  
+[INFO]: root : 2022-07-15 11:03:26,489 : area of circle returns the area of circle  
+[DEBUG]: root : 2022-07-15 11:03:26,489 : We are initiating the Jobs class
+[INFO]: root : 2022-07-15 11:03:26,489 : we initialized protected method
+[DEBUG]: root : 2022-07-15 11:03:26,489 : We are initiating the Jobs class
+[INFO]: root : 2022-07-15 11:03:26,489 : we initialized protected method
+[ERROR]: root : 2022-07-15 11:03:26,489 : both values should be string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 157, in _job_info
+    raise ValueError('both values should be string')
+ValueError: both values should be string
+[DEBUG]: root : 2022-07-15 11:03:26,489 : We are initializing employee class
+[INFO]: root : 2022-07-15 11:03:26,489 : This method describe about the employee details
+[INFO]: root : 2022-07-15 11:03:26,489 : This method describe about the employee info
+[INFO]: root : 2022-07-15 11:03:26,489 : This method describe about the employee salary info
+[ERROR]: root : 2022-07-15 11:03:26,489 : value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 190, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[INFO]: root : 2022-07-15 11:03:26,489 : This method describe about the employee salary info
+[ERROR]: root : 2022-07-15 11:03:26,489 : value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 190, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[DEBUG]: root : 2022-07-15 11:03:26,489 : We are initializing the values for Music application
+[INFO]: root : 2022-07-15 11:03:26,489 : music info describe about what kind of app
+[INFO]: root : 2022-07-15 11:03:26,489 : music_app_details method explain about details of music
+[INFO]: root : 2022-07-15 11:03:26,489 : music info describe about what kind of app
+[INFO]: root : 2022-07-15 11:03:26,489 : Finally you can enjoy music
+[DEBUG]: root : 2022-07-15 11:03:26,489 : We are initializing the values for Music application
+[INFO]: root : 2022-07-15 11:03:26,489 : music_app_details method explain about details of music
+[INFO]: root : 2022-07-15 11:03:26,494 : music info describe about what kind of app
+[INFO]: root : 2022-07-15 11:03:26,494 : Finally you can enjoy music
+[DEBUG]: root : 2022-07-15 11:03:26,494 : We are initializing the values for Music application
+[INFO]: root : 2022-07-15 11:03:26,494 : music_app_details method explain about details of music
+[INFO]: root : 2022-07-15 11:03:26,494 : music info describe about what kind of app
+[INFO]: root : 2022-07-15 11:03:26,494 : Finally you can enjoy music
+[DEBUG]: root : 2022-07-15 11:11:54,046 : We initiated values for Ineuron
+[INFO]: root : 2022-07-15 11:11:54,046 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-15 11:11:54,051 : Information has delivered
+[INFO]: root : 2022-07-15 11:11:54,051 : We are defining the variables directly 
+[INFO]: root : 2022-07-15 11:11:54,051 : __init__ method is not initialized even though we can refer them by self.
+[DEBUG]: root : 2022-07-15 11:11:54,051 : student_info method describe about student information
+[INFO]: root : 2022-07-15 11:11:54,051 : This method give info about students
+[DEBUG]: root : 2022-07-15 11:11:54,051 : We are initiating the variable directly
+[DEBUG]: root : 2022-07-15 11:11:54,051 : course_info method describe about course info information
+[INFO]: root : 2022-07-15 11:11:54,051 : This statement from finally
+[DEBUG]: root : 2022-07-15 11:11:54,051 : course_info method describe about course info information
+[INFO]: root : 2022-07-15 11:11:54,051 : This statement from finally
+[DEBUG]: root : 2022-07-15 11:11:54,051 : we are initializing the platform class
+[INFO]: root : 2022-07-15 11:11:54,056 : we are entered into private methods
+[INFO]: root : 2022-07-15 11:11:54,056 : we entered into price of each platform
+[INFO]: root : 2022-07-15 11:11:54,056 : we are entered into private methods
+[DEBUG]: root : 2022-07-15 11:11:54,056 : we are initializing the platform class
+[INFO]: root : 2022-07-15 11:11:54,056 : we entered into price of each platform
+[INFO]: root : 2022-07-15 11:11:54,056 : we are entered into private methods
+[INFO]: root : 2022-07-15 11:11:54,056 : area of circle returns the area of circle  
+[INFO]: root : 2022-07-15 11:11:54,056 : area of circle returns the area of circle  
+[DEBUG]: root : 2022-07-15 11:11:54,056 : We are initiating the Jobs class
+[INFO]: root : 2022-07-15 11:11:54,056 : we initialized protected method
+[DEBUG]: root : 2022-07-15 11:11:54,056 : We are initiating the Jobs class
+[INFO]: root : 2022-07-15 11:11:54,056 : we initialized protected method
+[ERROR]: root : 2022-07-15 11:11:54,056 : both values should be string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 157, in _job_info
+    raise ValueError('both values should be string')
+ValueError: both values should be string
+[DEBUG]: root : 2022-07-15 11:11:54,061 : We are initializing employee class
+[INFO]: root : 2022-07-15 11:11:54,061 : This method describe about the employee details
+[INFO]: root : 2022-07-15 11:11:54,061 : This method describe about the employee info
+[INFO]: root : 2022-07-15 11:11:54,061 : This method describe about the employee salary info
+[ERROR]: root : 2022-07-15 11:11:54,061 : value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 190, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[INFO]: root : 2022-07-15 11:11:54,061 : This method describe about the employee salary info
+[ERROR]: root : 2022-07-15 11:11:54,061 : value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 190, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[DEBUG]: root : 2022-07-15 11:11:54,061 : We are initializing the values for Music application
+[INFO]: root : 2022-07-15 11:11:54,061 : music info describe about what kind of app
+[INFO]: root : 2022-07-15 11:11:54,061 : music_app_details method explain about details of music
+[INFO]: root : 2022-07-15 11:11:54,061 : music info describe about what kind of app
+[INFO]: root : 2022-07-15 11:11:54,061 : Finally you can enjoy music
+[DEBUG]: root : 2022-07-15 11:11:54,061 : We are initializing the values for Music application
+[INFO]: root : 2022-07-15 11:11:54,061 : music_app_details method explain about details of music
+[INFO]: root : 2022-07-15 11:11:54,061 : music info describe about what kind of app
+[INFO]: root : 2022-07-15 11:11:54,066 : Finally you can enjoy music
+[DEBUG]: root : 2022-07-15 11:11:54,066 : We are initializing the values for Music application
+[INFO]: root : 2022-07-15 11:11:54,066 : music_app_details method explain about details of music
+[INFO]: root : 2022-07-15 11:11:54,066 : music info describe about what kind of app
+[INFO]: root : 2022-07-15 11:11:54,066 : Finally you can enjoy music
+[DEBUG]: root : 2022-07-15 11:11:54,066 : We just initialed number of courses class 
+[ERROR]: root : 2022-07-15 11:11:54,066 : Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 274, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: root : 2022-07-15 11:11:54,066 : Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 274, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: root : 2022-07-15 11:26:52,962 : We initiated values for Ineuron
+[INFO]: root : 2022-07-15 11:26:52,962 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-15 11:26:52,963 : Information has delivered
+[INFO]: root : 2022-07-15 11:26:52,963 : We are defining the variables directly 
+[INFO]: root : 2022-07-15 11:26:52,963 : __init__ method is not initialized even though we can refer them by self.
+[DEBUG]: root : 2022-07-15 11:26:52,963 : student_info method describe about student information
+[INFO]: root : 2022-07-15 11:26:52,964 : This method give info about students
+[DEBUG]: root : 2022-07-15 11:26:52,964 : We are initiating the variable directly
+[DEBUG]: root : 2022-07-15 11:26:52,964 : course_info method describe about course info information
+[INFO]: root : 2022-07-15 11:26:52,964 : This statement from finally
+[DEBUG]: root : 2022-07-15 11:26:52,964 : course_info method describe about course info information
+[INFO]: root : 2022-07-15 11:26:52,964 : This statement from finally
+[DEBUG]: root : 2022-07-15 11:26:52,965 : we are initializing the platform class
+[INFO]: root : 2022-07-15 11:26:52,965 : we are entered into private methods
+[INFO]: root : 2022-07-15 11:26:52,965 : we entered into price of each platform
+[INFO]: root : 2022-07-15 11:26:52,965 : we are entered into private methods
+[DEBUG]: root : 2022-07-15 11:26:52,965 : we are initializing the platform class
+[INFO]: root : 2022-07-15 11:26:52,965 : we entered into price of each platform
+[INFO]: root : 2022-07-15 11:26:52,966 : we are entered into private methods
+[INFO]: root : 2022-07-15 11:26:52,966 : area of circle returns the area of circle  
+[INFO]: root : 2022-07-15 11:26:52,966 : area of circle returns the area of circle  
+[DEBUG]: root : 2022-07-15 11:26:52,966 : We are initiating the Jobs class
+[INFO]: root : 2022-07-15 11:26:52,966 : we initialized protected method
+[DEBUG]: root : 2022-07-15 11:26:52,966 : We are initiating the Jobs class
+[INFO]: root : 2022-07-15 11:26:52,966 : we initialized protected method
+[ERROR]: root : 2022-07-15 11:26:52,966 : both values should be string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 157, in _job_info
+    raise ValueError('both values should be string')
+ValueError: both values should be string
+[DEBUG]: root : 2022-07-15 11:26:52,968 : We are initializing employee class
+[INFO]: root : 2022-07-15 11:26:52,969 : This method describe about the employee details
+[INFO]: root : 2022-07-15 11:26:52,969 : This method describe about the employee info
+[INFO]: root : 2022-07-15 11:26:52,969 : This method describe about the employee salary info
+[ERROR]: root : 2022-07-15 11:26:52,969 : value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 190, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[INFO]: root : 2022-07-15 11:26:52,970 : This method describe about the employee salary info
+[ERROR]: root : 2022-07-15 11:26:52,970 : value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 190, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[DEBUG]: root : 2022-07-15 11:26:52,970 : We are initializing the values for Music application
+[INFO]: root : 2022-07-15 11:26:52,970 : music info describe about what kind of app
+[INFO]: root : 2022-07-15 11:26:52,970 : music_app_details method explain about details of music
+[INFO]: root : 2022-07-15 11:26:52,970 : music info describe about what kind of app
+[INFO]: root : 2022-07-15 11:26:52,970 : Finally you can enjoy music
+[DEBUG]: root : 2022-07-15 11:26:52,971 : We are initializing the values for Music application
+[INFO]: root : 2022-07-15 11:26:52,971 : music_app_details method explain about details of music
+[INFO]: root : 2022-07-15 11:26:52,971 : music info describe about what kind of app
+[INFO]: root : 2022-07-15 11:26:52,971 : Finally you can enjoy music
+[DEBUG]: root : 2022-07-15 11:26:52,971 : We are initializing the values for Music application
+[INFO]: root : 2022-07-15 11:26:52,971 : music_app_details method explain about details of music
+[INFO]: root : 2022-07-15 11:26:52,971 : music info describe about what kind of app
+[INFO]: root : 2022-07-15 11:26:52,971 : Finally you can enjoy music
+[DEBUG]: root : 2022-07-15 11:26:52,972 : We just initialed number of courses class 
+[ERROR]: root : 2022-07-15 11:26:52,972 : Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 274, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: root : 2022-07-15 11:26:52,973 : Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 274, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: root : 2022-07-15 11:26:52,973 : we are initializing the House class
+[INFO]: root : 2022-07-15 11:26:52,973 : house_type describe about type of house
+[DEBUG]: root : 2022-07-15 11:27:13,947 : We initiated values for Ineuron
+[INFO]: root : 2022-07-15 11:27:13,948 : We entered to Info method which describe aobut company
+[INFO]: root : 2022-07-15 11:27:13,948 : Information has delivered
+[INFO]: root : 2022-07-15 11:27:13,948 : We are defining the variables directly 
+[INFO]: root : 2022-07-15 11:27:13,948 : __init__ method is not initialized even though we can refer them by self.
+[DEBUG]: root : 2022-07-15 11:27:13,949 : student_info method describe about student information
+[INFO]: root : 2022-07-15 11:27:13,949 : This method give info about students
+[DEBUG]: root : 2022-07-15 11:27:13,949 : We are initiating the variable directly
+[DEBUG]: root : 2022-07-15 11:27:13,949 : course_info method describe about course info information
+[INFO]: root : 2022-07-15 11:27:13,950 : This statement from finally
+[DEBUG]: root : 2022-07-15 11:27:13,950 : course_info method describe about course info information
+[INFO]: root : 2022-07-15 11:27:13,950 : This statement from finally
+[DEBUG]: root : 2022-07-15 11:27:13,950 : we are initializing the platform class
+[INFO]: root : 2022-07-15 11:27:13,951 : we are entered into private methods
+[INFO]: root : 2022-07-15 11:27:13,951 : we entered into price of each platform
+[INFO]: root : 2022-07-15 11:27:13,951 : we are entered into private methods
+[DEBUG]: root : 2022-07-15 11:27:13,951 : we are initializing the platform class
+[INFO]: root : 2022-07-15 11:27:13,951 : we entered into price of each platform
+[INFO]: root : 2022-07-15 11:27:13,952 : we are entered into private methods
+[INFO]: root : 2022-07-15 11:27:13,952 : area of circle returns the area of circle  
+[INFO]: root : 2022-07-15 11:27:13,952 : area of circle returns the area of circle  
+[DEBUG]: root : 2022-07-15 11:27:13,952 : We are initiating the Jobs class
+[INFO]: root : 2022-07-15 11:27:13,952 : we initialized protected method
+[DEBUG]: root : 2022-07-15 11:27:13,953 : We are initiating the Jobs class
+[INFO]: root : 2022-07-15 11:27:13,953 : we initialized protected method
+[ERROR]: root : 2022-07-15 11:27:13,953 : both values should be string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 157, in _job_info
+    raise ValueError('both values should be string')
+ValueError: both values should be string
+[DEBUG]: root : 2022-07-15 11:27:13,954 : We are initializing employee class
+[INFO]: root : 2022-07-15 11:27:13,954 : This method describe about the employee details
+[INFO]: root : 2022-07-15 11:27:13,955 : This method describe about the employee info
+[INFO]: root : 2022-07-15 11:27:13,955 : This method describe about the employee salary info
+[ERROR]: root : 2022-07-15 11:27:13,955 : value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 190, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[INFO]: root : 2022-07-15 11:27:13,956 : This method describe about the employee salary info
+[ERROR]: root : 2022-07-15 11:27:13,956 : value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 190, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[DEBUG]: root : 2022-07-15 11:27:13,957 : We are initializing the values for Music application
+[INFO]: root : 2022-07-15 11:27:13,957 : music info describe about what kind of app
+[INFO]: root : 2022-07-15 11:27:13,957 : music_app_details method explain about details of music
+[INFO]: root : 2022-07-15 11:27:13,957 : music info describe about what kind of app
+[INFO]: root : 2022-07-15 11:27:13,958 : Finally you can enjoy music
+[DEBUG]: root : 2022-07-15 11:27:13,958 : We are initializing the values for Music application
+[INFO]: root : 2022-07-15 11:27:13,958 : music_app_details method explain about details of music
+[INFO]: root : 2022-07-15 11:27:13,958 : music info describe about what kind of app
+[INFO]: root : 2022-07-15 11:27:13,958 : Finally you can enjoy music
+[DEBUG]: root : 2022-07-15 11:27:13,958 : We are initializing the values for Music application
+[INFO]: root : 2022-07-15 11:27:13,958 : music_app_details method explain about details of music
+[INFO]: root : 2022-07-15 11:27:13,958 : music info describe about what kind of app
+[INFO]: root : 2022-07-15 11:27:13,959 : Finally you can enjoy music
+[DEBUG]: root : 2022-07-15 11:27:13,959 : We just initialed number of courses class 
+[ERROR]: root : 2022-07-15 11:27:13,959 : Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 274, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[ERROR]: root : 2022-07-15 11:27:13,959 : Please Enter any of O/C/K
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\protect.py", line 274, in no_of_cr
+    raise Exception('Please Enter any of O/C/K')
+Exception: Please Enter any of O/C/K
+[DEBUG]: root : 2022-07-15 11:27:13,960 : we are initializing the House class
+[INFO]: root : 2022-07-15 11:27:13,960 : house_type describe about type of house

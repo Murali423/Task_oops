@@ -1,0 +1,594 @@
+[DEBUG] : 2022-07-15 11:42:03,120: root:Wer are initializing the private company
+[DEBUG] : 2022-07-15 11:53:02,894: root:Wer are initializing the private company
+[DEBUG] : 2022-07-15 11:53:02,899: root:company_info describe about information about company
+[DEBUG] : 2022-07-15 11:54:03,266: root:Wer are initializing the private company
+[DEBUG] : 2022-07-15 11:54:03,266: root:company_info describe about information about company
+[DEBUG] : 2022-07-15 11:54:03,266: root:company_info describe about information about company
+[DEBUG] : 2022-07-15 12:16:24,173: root:Wer are initializing the private company
+[DEBUG] : 2022-07-15 12:16:24,173: root:company_info describe about information about company
+[DEBUG] : 2022-07-15 12:16:24,173: root:We are Initializing the Area method
+[DEBUG] : 2022-07-15 12:18:04,542: root:Wer are initializing the private company
+[DEBUG] : 2022-07-15 12:18:04,558: root:company_info describe about information about company
+[DEBUG] : 2022-07-15 12:18:04,558: root:We are Initializing the Area method
+[INFO] : 2022-07-15 12:18:04,558: root:area_of_comp describe about the area of rectangle 
+[DEBUG] : 2022-07-15 12:18:04,558: root:this function is called from private method
+[DEBUG] : 2022-07-15 12:18:47,242: root:Wer are initializing the private company
+[DEBUG] : 2022-07-15 12:18:47,242: root:company_info describe about information about company
+[DEBUG] : 2022-07-15 12:18:47,242: root:We are Initializing the Area method
+[INFO] : 2022-07-15 12:18:47,242: root:area_of_comp describe about the area of rectangle 
+[DEBUG] : 2022-07-15 12:18:47,242: root:this function is called from private method
+[DEBUG] : 2022-07-15 12:18:47,242: root:We are Initializing the Area method
+[INFO] : 2022-07-15 12:18:47,242: root:area_of_comp describe about the area of rectangle 
+[ERROR] : 2022-07-15 12:18:47,242: root:Entered values must be integers
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 45, in __area_of_comp
+    raise ValueError('Entered values must be integers')
+ValueError: Entered values must be integers
+[DEBUG] : 2022-07-15 22:45:37,328: root:Wer are initializing the private company
+[DEBUG] : 2022-07-15 22:45:37,328: root:company_info describe about information about company
+[DEBUG] : 2022-07-15 22:45:37,328: root:We are Initializing the Area method
+[INFO] : 2022-07-15 22:45:37,328: root:area_of_comp describe about the area of rectangle 
+[DEBUG] : 2022-07-15 22:45:37,328: root:this function is called from private method
+[DEBUG] : 2022-07-15 22:45:37,328: root:We are Initializing the Area method
+[INFO] : 2022-07-15 22:45:37,328: root:area_of_comp describe about the area of rectangle 
+[ERROR] : 2022-07-15 22:45:37,328: root:Entered values must be integers
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 45, in __area_of_comp
+    raise ValueError('Entered values must be integers')
+ValueError: Entered values must be integers
+[DEBUG] : 2022-07-15 23:35:56,126: root:Wer are initializing the private company
+[DEBUG] : 2022-07-15 23:35:56,126: root:company_info describe about information about company
+[DEBUG] : 2022-07-15 23:35:56,126: root:We are Initializing the Area method
+[INFO] : 2022-07-15 23:35:56,126: root:area_of_comp describe about the area of rectangle 
+[DEBUG] : 2022-07-15 23:35:56,126: root:this function is called from private method
+[DEBUG] : 2022-07-15 23:35:56,126: root:We are Initializing the Area method
+[INFO] : 2022-07-15 23:35:56,126: root:area_of_comp describe about the area of rectangle 
+[ERROR] : 2022-07-15 23:35:56,126: root:Entered values must be integers
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 45, in __area_of_comp
+    raise ValueError('Entered values must be integers')
+ValueError: Entered values must be integers
+[DEBUG] : 2022-07-15 23:35:56,126: root:Initializing the values outside of __init__
+[DEBUG] : 2022-07-15 23:39:59,037: root:Wer are initializing the private company
+[DEBUG] : 2022-07-15 23:39:59,037: root:company_info describe about information about company
+[DEBUG] : 2022-07-15 23:39:59,037: root:We are Initializing the Area method
+[INFO] : 2022-07-15 23:39:59,037: root:area_of_comp describe about the area of rectangle 
+[DEBUG] : 2022-07-15 23:39:59,037: root:this function is called from private method
+[DEBUG] : 2022-07-15 23:39:59,037: root:We are Initializing the Area method
+[INFO] : 2022-07-15 23:39:59,037: root:area_of_comp describe about the area of rectangle 
+[ERROR] : 2022-07-15 23:39:59,037: root:Entered values must be integers
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 45, in __area_of_comp
+    raise ValueError('Entered values must be integers')
+ValueError: Entered values must be integers
+[DEBUG] : 2022-07-15 23:39:59,037: root:Initializing the values outside of __init__
+[INFO] : 2022-07-15 23:39:59,037: root:name: Murali
+[DEBUG] : 2022-07-15 23:40:25,717: root:Wer are initializing the private company
+[DEBUG] : 2022-07-15 23:40:25,717: root:company_info describe about information about company
+[DEBUG] : 2022-07-15 23:40:25,717: root:We are Initializing the Area method
+[INFO] : 2022-07-15 23:40:25,717: root:area_of_comp describe about the area of rectangle 
+[DEBUG] : 2022-07-15 23:40:25,717: root:this function is called from private method
+[DEBUG] : 2022-07-15 23:40:25,717: root:We are Initializing the Area method
+[INFO] : 2022-07-15 23:40:25,717: root:area_of_comp describe about the area of rectangle 
+[ERROR] : 2022-07-15 23:40:25,717: root:Entered values must be integers
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 45, in __area_of_comp
+    raise ValueError('Entered values must be integers')
+ValueError: Entered values must be integers
+[DEBUG] : 2022-07-15 23:40:25,717: root:Initializing the values outside of __init__
+[INFO] : 2022-07-15 23:40:25,717: root:name: Murali
+[INFO] : 2022-07-15 23:40:25,717: root:rollno423
+[INFO] : 2022-07-15 23:40:25,717: root:CourseFSDS
+[DEBUG] : 2022-07-15 23:58:49,364: root:Wer are initializing the private company
+[DEBUG] : 2022-07-15 23:58:49,364: root:company_info describe about information about company
+[DEBUG] : 2022-07-15 23:58:49,364: root:We are Initializing the Area method
+[INFO] : 2022-07-15 23:58:49,364: root:area_of_comp describe about the area of rectangle 
+[DEBUG] : 2022-07-15 23:58:49,364: root:this function is called from private method
+[DEBUG] : 2022-07-15 23:58:49,364: root:We are Initializing the Area method
+[INFO] : 2022-07-15 23:58:49,364: root:area_of_comp describe about the area of rectangle 
+[ERROR] : 2022-07-15 23:58:49,364: root:Entered values must be integers
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 45, in __area_of_comp
+    raise ValueError('Entered values must be integers')
+ValueError: Entered values must be integers
+[DEBUG] : 2022-07-15 23:58:49,364: root:Initializing the values outside of __init__
+[INFO] : 2022-07-15 23:58:49,364: root:name: Murali
+[INFO] : 2022-07-15 23:58:49,364: root:rollno423
+[INFO] : 2022-07-15 23:58:49,364: root:CourseFSDS
+[DEBUG] : 2022-07-16 10:25:11,971: root:Wer are initializing the private company
+[DEBUG] : 2022-07-16 10:25:11,971: root:company_info describe about information about company
+[DEBUG] : 2022-07-16 10:25:11,971: root:We are Initializing the Area method
+[INFO] : 2022-07-16 10:25:11,971: root:area_of_comp describe about the area of rectangle 
+[DEBUG] : 2022-07-16 10:25:11,971: root:this function is called from private method
+[DEBUG] : 2022-07-16 10:25:11,971: root:We are Initializing the Area method
+[INFO] : 2022-07-16 10:25:11,971: root:area_of_comp describe about the area of rectangle 
+[ERROR] : 2022-07-16 10:25:11,971: root:Entered values must be integers
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 45, in __area_of_comp
+    raise ValueError('Entered values must be integers')
+ValueError: Entered values must be integers
+[DEBUG] : 2022-07-16 10:25:11,971: root:Initializing the values outside of __init__
+[INFO] : 2022-07-16 10:25:11,971: root:name: Murali
+[INFO] : 2022-07-16 10:25:11,971: root:rollno423
+[INFO] : 2022-07-16 10:25:11,971: root:CourseFSDS
+[DEBUG] : 2022-07-16 10:25:11,971: root:We are initiating the Jobs class
+[DEBUG] : 2022-07-16 10:25:32,232: root:Wer are initializing the private company
+[DEBUG] : 2022-07-16 10:25:32,232: root:company_info describe about information about company
+[DEBUG] : 2022-07-16 10:25:32,232: root:We are Initializing the Area method
+[INFO] : 2022-07-16 10:25:32,232: root:area_of_comp describe about the area of rectangle 
+[DEBUG] : 2022-07-16 10:25:32,232: root:this function is called from private method
+[DEBUG] : 2022-07-16 10:25:32,232: root:We are Initializing the Area method
+[INFO] : 2022-07-16 10:25:32,232: root:area_of_comp describe about the area of rectangle 
+[ERROR] : 2022-07-16 10:25:32,232: root:Entered values must be integers
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 45, in __area_of_comp
+    raise ValueError('Entered values must be integers')
+ValueError: Entered values must be integers
+[DEBUG] : 2022-07-16 10:25:32,232: root:Initializing the values outside of __init__
+[INFO] : 2022-07-16 10:25:32,232: root:name: Murali
+[INFO] : 2022-07-16 10:25:32,232: root:rollno423
+[INFO] : 2022-07-16 10:25:32,232: root:CourseFSDS
+[DEBUG] : 2022-07-16 10:25:32,232: root:We are initiating the Jobs class
+[DEBUG] : 2022-07-16 10:27:27,854: root:Wer are initializing the private company
+[DEBUG] : 2022-07-16 10:27:27,854: root:company_info describe about information about company
+[DEBUG] : 2022-07-16 10:27:27,854: root:We are Initializing the Area method
+[INFO] : 2022-07-16 10:27:27,854: root:area_of_comp describe about the area of rectangle 
+[DEBUG] : 2022-07-16 10:27:27,854: root:this function is called from private method
+[DEBUG] : 2022-07-16 10:27:27,854: root:We are Initializing the Area method
+[INFO] : 2022-07-16 10:27:27,854: root:area_of_comp describe about the area of rectangle 
+[ERROR] : 2022-07-16 10:27:27,854: root:Entered values must be integers
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 45, in __area_of_comp
+    raise ValueError('Entered values must be integers')
+ValueError: Entered values must be integers
+[DEBUG] : 2022-07-16 10:27:27,854: root:Initializing the values outside of __init__
+[INFO] : 2022-07-16 10:27:27,854: root:name: Murali
+[INFO] : 2022-07-16 10:27:27,854: root:rollno423
+[INFO] : 2022-07-16 10:27:27,854: root:CourseFSDS
+[DEBUG] : 2022-07-16 10:27:27,854: root:We are initiating the Jobs class
+[DEBUG] : 2022-07-16 10:28:04,974: root:Wer are initializing the private company
+[DEBUG] : 2022-07-16 10:28:04,974: root:company_info describe about information about company
+[DEBUG] : 2022-07-16 10:28:04,974: root:We are Initializing the Area method
+[INFO] : 2022-07-16 10:28:04,974: root:area_of_comp describe about the area of rectangle 
+[DEBUG] : 2022-07-16 10:28:04,974: root:this function is called from private method
+[DEBUG] : 2022-07-16 10:28:04,974: root:We are Initializing the Area method
+[INFO] : 2022-07-16 10:28:04,974: root:area_of_comp describe about the area of rectangle 
+[ERROR] : 2022-07-16 10:28:04,974: root:Entered values must be integers
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 45, in __area_of_comp
+    raise ValueError('Entered values must be integers')
+ValueError: Entered values must be integers
+[DEBUG] : 2022-07-16 10:28:04,974: root:Initializing the values outside of __init__
+[INFO] : 2022-07-16 10:28:04,974: root:name: Murali
+[INFO] : 2022-07-16 10:28:04,974: root:rollno423
+[INFO] : 2022-07-16 10:28:04,974: root:CourseFSDS
+[DEBUG] : 2022-07-16 10:28:04,974: root:We are initiating the Jobs class
+[INFO] : 2022-07-16 10:28:04,974: root:we initialized protected method
+[DEBUG] : 2022-07-16 10:28:04,974: root:We are initiating the Jobs class
+[INFO] : 2022-07-16 10:28:04,974: root:we initialized protected method
+[ERROR] : 2022-07-16 10:28:04,974: root:both values should be string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 88, in __job_info
+    raise ValueError('both values should be string')
+ValueError: both values should be string
+[DEBUG] : 2022-07-16 10:28:04,974: root:We are initializing employee class
+[INFO] : 2022-07-16 10:28:04,974: root:This method describe about the employee details
+[INFO] : 2022-07-16 10:28:04,974: root:This method describe about the employee info
+[INFO] : 2022-07-16 10:28:04,974: root:This method describe about the employee salary info
+[ERROR] : 2022-07-16 10:28:04,974: root:value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 121, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[INFO] : 2022-07-16 10:28:04,974: root:This method describe about the employee salary info
+[ERROR] : 2022-07-16 10:28:04,974: root:value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 121, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[DEBUG] : 2022-07-16 10:40:09,952: root:Wer are initializing the private company
+[DEBUG] : 2022-07-16 10:40:09,967: root:company_info describe about information about company
+[DEBUG] : 2022-07-16 10:40:09,967: root:We are Initializing the Area method
+[INFO] : 2022-07-16 10:40:09,967: root:area_of_comp describe about the area of rectangle 
+[DEBUG] : 2022-07-16 10:40:09,967: root:this function is called from private method
+[DEBUG] : 2022-07-16 10:40:09,967: root:We are Initializing the Area method
+[INFO] : 2022-07-16 10:40:09,967: root:area_of_comp describe about the area of rectangle 
+[ERROR] : 2022-07-16 10:40:09,967: root:Entered values must be integers
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 59, in __area_of_comp
+    raise ValueError('Entered values must be integers')
+ValueError: Entered values must be integers
+[DEBUG] : 2022-07-16 10:40:09,967: root:Initializing the values outside of __init__
+[INFO] : 2022-07-16 10:40:09,967: root:name: Murali
+[INFO] : 2022-07-16 10:40:09,967: root:rollno423
+[INFO] : 2022-07-16 10:40:09,967: root:CourseFSDS
+[DEBUG] : 2022-07-16 10:40:09,967: root:We are initiating the Jobs class
+[INFO] : 2022-07-16 10:40:09,967: root:we initialized protected method
+[DEBUG] : 2022-07-16 10:40:09,967: root:We are initiating the Jobs class
+[INFO] : 2022-07-16 10:40:09,967: root:we initialized protected method
+[ERROR] : 2022-07-16 10:40:09,967: root:both values should be string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 102, in __job_info
+    raise ValueError('both values should be string')
+ValueError: both values should be string
+[DEBUG] : 2022-07-16 10:40:09,967: root:We are initializing employee class
+[INFO] : 2022-07-16 10:40:09,967: root:This method describe about the employee details
+[INFO] : 2022-07-16 10:40:09,967: root:This method describe about the employee info
+[INFO] : 2022-07-16 10:40:09,967: root:This method describe about the employee salary info
+[ERROR] : 2022-07-16 10:40:09,967: root:value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 135, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[INFO] : 2022-07-16 10:40:09,967: root:This method describe about the employee salary info
+[ERROR] : 2022-07-16 10:40:09,967: root:value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 135, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[DEBUG] : 2022-07-16 11:09:23,438: root:Wer are initializing the private company
+[DEBUG] : 2022-07-16 11:09:23,438: root:company_info describe about information about company
+[DEBUG] : 2022-07-16 11:09:23,438: root:We are Initializing the Area method
+[INFO] : 2022-07-16 11:09:23,438: root:area_of_comp describe about the area of rectangle 
+[DEBUG] : 2022-07-16 11:09:23,438: root:this function is called from private method
+[DEBUG] : 2022-07-16 11:09:23,438: root:We are Initializing the Area method
+[INFO] : 2022-07-16 11:09:23,438: root:area_of_comp describe about the area of rectangle 
+[ERROR] : 2022-07-16 11:09:23,438: root:Entered values must be integers
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 59, in __area_of_comp
+    raise ValueError('Entered values must be integers')
+ValueError: Entered values must be integers
+[DEBUG] : 2022-07-16 11:09:23,438: root:Initializing the values outside of __init__
+[INFO] : 2022-07-16 11:09:23,438: root:name: Murali
+[INFO] : 2022-07-16 11:09:23,438: root:rollno423
+[INFO] : 2022-07-16 11:09:23,438: root:CourseFSDS
+[DEBUG] : 2022-07-16 11:09:23,438: root:We are initiating the Jobs class
+[INFO] : 2022-07-16 11:09:23,438: root:we initialized protected method
+[DEBUG] : 2022-07-16 11:09:23,438: root:We are initiating the Jobs class
+[INFO] : 2022-07-16 11:09:23,438: root:we initialized protected method
+[ERROR] : 2022-07-16 11:09:23,438: root:both values should be string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 102, in __job_info
+    raise ValueError('both values should be string')
+ValueError: both values should be string
+[DEBUG] : 2022-07-16 11:09:23,438: root:We are initializing employee class
+[INFO] : 2022-07-16 11:09:23,438: root:This method describe about the employee details
+[INFO] : 2022-07-16 11:09:23,438: root:This method describe about the employee info
+[INFO] : 2022-07-16 11:09:23,438: root:This method describe about the employee salary info
+[ERROR] : 2022-07-16 11:09:23,438: root:value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 135, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[INFO] : 2022-07-16 11:09:23,438: root:This method describe about the employee salary info
+[ERROR] : 2022-07-16 11:09:23,438: root:value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 135, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[DEBUG] : 2022-07-16 11:09:23,438: root:Initialize the Fruit class
+[INFO] : 2022-07-16 11:09:23,438: root:fruit info 
+[DEBUG] : 2022-07-16 11:09:47,806: root:Wer are initializing the private company
+[DEBUG] : 2022-07-16 11:09:47,806: root:company_info describe about information about company
+[DEBUG] : 2022-07-16 11:09:47,806: root:We are Initializing the Area method
+[INFO] : 2022-07-16 11:09:47,806: root:area_of_comp describe about the area of rectangle 
+[DEBUG] : 2022-07-16 11:09:47,806: root:this function is called from private method
+[DEBUG] : 2022-07-16 11:09:47,806: root:We are Initializing the Area method
+[INFO] : 2022-07-16 11:09:47,806: root:area_of_comp describe about the area of rectangle 
+[ERROR] : 2022-07-16 11:09:47,806: root:Entered values must be integers
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 59, in __area_of_comp
+    raise ValueError('Entered values must be integers')
+ValueError: Entered values must be integers
+[DEBUG] : 2022-07-16 11:09:47,806: root:Initializing the values outside of __init__
+[INFO] : 2022-07-16 11:09:47,806: root:name: Murali
+[INFO] : 2022-07-16 11:09:47,806: root:rollno423
+[INFO] : 2022-07-16 11:09:47,806: root:CourseFSDS
+[DEBUG] : 2022-07-16 11:09:47,806: root:We are initiating the Jobs class
+[INFO] : 2022-07-16 11:09:47,806: root:we initialized protected method
+[DEBUG] : 2022-07-16 11:09:47,806: root:We are initiating the Jobs class
+[INFO] : 2022-07-16 11:09:47,806: root:we initialized protected method
+[ERROR] : 2022-07-16 11:09:47,806: root:both values should be string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 102, in __job_info
+    raise ValueError('both values should be string')
+ValueError: both values should be string
+[DEBUG] : 2022-07-16 11:09:47,806: root:We are initializing employee class
+[INFO] : 2022-07-16 11:09:47,806: root:This method describe about the employee details
+[INFO] : 2022-07-16 11:09:47,806: root:This method describe about the employee info
+[INFO] : 2022-07-16 11:09:47,806: root:This method describe about the employee salary info
+[ERROR] : 2022-07-16 11:09:47,806: root:value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 135, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[INFO] : 2022-07-16 11:09:47,806: root:This method describe about the employee salary info
+[ERROR] : 2022-07-16 11:09:47,806: root:value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 135, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[DEBUG] : 2022-07-16 11:09:47,806: root:Initialize the Fruit class
+[INFO] : 2022-07-16 11:09:47,806: root:fruit info 
+[INFO] : 2022-07-16 11:09:47,806: root:This method describe about fruit details
+[INFO] : 2022-07-16 11:09:47,806: root:fruit info 
+[DEBUG] : 2022-07-16 11:10:39,662: root:Wer are initializing the private company
+[DEBUG] : 2022-07-16 11:10:39,662: root:company_info describe about information about company
+[DEBUG] : 2022-07-16 11:10:39,662: root:We are Initializing the Area method
+[INFO] : 2022-07-16 11:10:39,662: root:area_of_comp describe about the area of rectangle 
+[DEBUG] : 2022-07-16 11:10:39,662: root:this function is called from private method
+[DEBUG] : 2022-07-16 11:10:39,662: root:We are Initializing the Area method
+[INFO] : 2022-07-16 11:10:39,662: root:area_of_comp describe about the area of rectangle 
+[ERROR] : 2022-07-16 11:10:39,662: root:Entered values must be integers
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 59, in __area_of_comp
+    raise ValueError('Entered values must be integers')
+ValueError: Entered values must be integers
+[DEBUG] : 2022-07-16 11:10:39,662: root:Initializing the values outside of __init__
+[INFO] : 2022-07-16 11:10:39,662: root:name: Murali
+[INFO] : 2022-07-16 11:10:39,662: root:rollno423
+[INFO] : 2022-07-16 11:10:39,662: root:CourseFSDS
+[DEBUG] : 2022-07-16 11:10:39,662: root:We are initiating the Jobs class
+[INFO] : 2022-07-16 11:10:39,662: root:we initialized protected method
+[DEBUG] : 2022-07-16 11:10:39,662: root:We are initiating the Jobs class
+[INFO] : 2022-07-16 11:10:39,662: root:we initialized protected method
+[ERROR] : 2022-07-16 11:10:39,662: root:both values should be string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 102, in __job_info
+    raise ValueError('both values should be string')
+ValueError: both values should be string
+[DEBUG] : 2022-07-16 11:10:39,662: root:We are initializing employee class
+[INFO] : 2022-07-16 11:10:39,662: root:This method describe about the employee details
+[INFO] : 2022-07-16 11:10:39,662: root:This method describe about the employee info
+[INFO] : 2022-07-16 11:10:39,662: root:This method describe about the employee salary info
+[ERROR] : 2022-07-16 11:10:39,662: root:value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 135, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[INFO] : 2022-07-16 11:10:39,662: root:This method describe about the employee salary info
+[ERROR] : 2022-07-16 11:10:39,662: root:value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 135, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[DEBUG] : 2022-07-16 11:10:39,662: root:Initialize the Fruit class
+[INFO] : 2022-07-16 11:10:39,662: root:fruit info 
+[INFO] : 2022-07-16 11:10:39,662: root:This method describe about fruit details
+[INFO] : 2022-07-16 11:10:39,662: root:fruit info 
+[DEBUG] : 2022-07-16 11:10:39,662: root:Initialize the Fruit class
+[INFO] : 2022-07-16 11:10:39,662: root:This method describe about fruit details
+[INFO] : 2022-07-16 11:10:39,662: root:fruit info 
+[DEBUG] : 2022-07-16 11:14:30,738: root:Wer are initializing the private company
+[DEBUG] : 2022-07-16 11:14:30,738: root:company_info describe about information about company
+[DEBUG] : 2022-07-16 11:14:30,738: root:We are Initializing the Area method
+[INFO] : 2022-07-16 11:14:30,738: root:area_of_comp describe about the area of rectangle 
+[DEBUG] : 2022-07-16 11:14:30,738: root:this function is called from private method
+[DEBUG] : 2022-07-16 11:14:30,738: root:We are Initializing the Area method
+[INFO] : 2022-07-16 11:14:30,738: root:area_of_comp describe about the area of rectangle 
+[ERROR] : 2022-07-16 11:14:30,738: root:Entered values must be integers
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 59, in __area_of_comp
+    raise ValueError('Entered values must be integers')
+ValueError: Entered values must be integers
+[DEBUG] : 2022-07-16 11:14:30,738: root:Initializing the values outside of __init__
+[INFO] : 2022-07-16 11:14:30,738: root:name: Murali
+[INFO] : 2022-07-16 11:14:30,738: root:rollno423
+[INFO] : 2022-07-16 11:14:30,738: root:CourseFSDS
+[DEBUG] : 2022-07-16 11:14:30,738: root:We are initiating the Jobs class
+[INFO] : 2022-07-16 11:14:30,738: root:we initialized protected method
+[DEBUG] : 2022-07-16 11:14:30,738: root:We are initiating the Jobs class
+[INFO] : 2022-07-16 11:14:30,738: root:we initialized protected method
+[ERROR] : 2022-07-16 11:14:30,738: root:both values should be string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 102, in __job_info
+    raise ValueError('both values should be string')
+ValueError: both values should be string
+[DEBUG] : 2022-07-16 11:14:30,738: root:We are initializing employee class
+[INFO] : 2022-07-16 11:14:30,738: root:This method describe about the employee details
+[INFO] : 2022-07-16 11:14:30,738: root:This method describe about the employee info
+[INFO] : 2022-07-16 11:14:30,738: root:This method describe about the employee salary info
+[ERROR] : 2022-07-16 11:14:30,738: root:value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 135, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[INFO] : 2022-07-16 11:14:30,738: root:This method describe about the employee salary info
+[ERROR] : 2022-07-16 11:14:30,738: root:value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 135, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[DEBUG] : 2022-07-16 11:14:30,738: root:Initialize the Fruit class
+[INFO] : 2022-07-16 11:14:30,738: root:fruit info 
+[INFO] : 2022-07-16 11:14:30,738: root:This method describe about fruit details
+[INFO] : 2022-07-16 11:14:30,738: root:fruit info 
+[DEBUG] : 2022-07-16 11:14:30,738: root:Initialize the Fruit class
+[INFO] : 2022-07-16 11:14:30,738: root:This method describe about fruit details
+[INFO] : 2022-07-16 11:14:30,738: root:fruit info 
+[DEBUG] : 2022-07-16 11:14:30,738: root:We just initiated iNeuron Affliate
+[DEBUG] : 2022-07-16 11:14:30,738: root:This method describes about the refering of affliate
+[DEBUG] : 2022-07-16 11:14:30,738: root:This method describes about the refering of affliate
+[ERROR] : 2022-07-16 11:14:30,738: root:object of type 'int' has no len()
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 205, in refer_affliate
+    if len(program) == 0 or len(name) == 0:
+TypeError: object of type 'int' has no len()
+[DEBUG] : 2022-07-16 11:14:30,738: root:This method describes about the earning of affliate
+[DEBUG] : 2022-07-16 11:42:56,763: root:Wer are initializing the private company
+[DEBUG] : 2022-07-16 11:42:56,763: root:company_info describe about information about company
+[DEBUG] : 2022-07-16 11:42:56,763: root:We are Initializing the Area method
+[INFO] : 2022-07-16 11:42:56,763: root:area_of_comp describe about the area of rectangle 
+[DEBUG] : 2022-07-16 11:42:56,763: root:this function is called from private method
+[DEBUG] : 2022-07-16 11:42:56,763: root:We are Initializing the Area method
+[INFO] : 2022-07-16 11:42:56,763: root:area_of_comp describe about the area of rectangle 
+[ERROR] : 2022-07-16 11:42:56,763: root:Entered values must be integers
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 59, in __area_of_comp
+    raise ValueError('Entered values must be integers')
+ValueError: Entered values must be integers
+[DEBUG] : 2022-07-16 11:42:56,763: root:Initializing the values outside of __init__
+[INFO] : 2022-07-16 11:42:56,763: root:name: Murali
+[INFO] : 2022-07-16 11:42:56,763: root:rollno423
+[INFO] : 2022-07-16 11:42:56,763: root:CourseFSDS
+[DEBUG] : 2022-07-16 11:42:56,763: root:We are initiating the Jobs class
+[INFO] : 2022-07-16 11:42:56,763: root:we initialized protected method
+[DEBUG] : 2022-07-16 11:42:56,763: root:We are initiating the Jobs class
+[INFO] : 2022-07-16 11:42:56,763: root:we initialized protected method
+[ERROR] : 2022-07-16 11:42:56,763: root:both values should be string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 102, in __job_info
+    raise ValueError('both values should be string')
+ValueError: both values should be string
+[DEBUG] : 2022-07-16 11:42:56,763: root:We are initializing employee class
+[INFO] : 2022-07-16 11:42:56,763: root:This method describe about the employee details
+[INFO] : 2022-07-16 11:42:56,763: root:This method describe about the employee info
+[INFO] : 2022-07-16 11:42:56,763: root:This method describe about the employee salary info
+[ERROR] : 2022-07-16 11:42:56,763: root:value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 135, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[INFO] : 2022-07-16 11:42:56,763: root:This method describe about the employee salary info
+[ERROR] : 2022-07-16 11:42:56,763: root:value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 135, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[DEBUG] : 2022-07-16 11:42:56,763: root:Initialize the Fruit class
+[INFO] : 2022-07-16 11:42:56,763: root:fruit info 
+[INFO] : 2022-07-16 11:42:56,763: root:This method describe about fruit details
+[INFO] : 2022-07-16 11:42:56,763: root:fruit info 
+[DEBUG] : 2022-07-16 11:42:56,763: root:Initialize the Fruit class
+[INFO] : 2022-07-16 11:42:56,763: root:This method describe about fruit details
+[INFO] : 2022-07-16 11:42:56,763: root:fruit info 
+[DEBUG] : 2022-07-16 11:42:56,763: root:We just initiated iNeuron Affliate
+[DEBUG] : 2022-07-16 11:42:56,763: root:This method describes about the refering of affliate
+[DEBUG] : 2022-07-16 11:42:56,763: root:This method describes about the refering of affliate
+[ERROR] : 2022-07-16 11:42:56,763: root:object of type 'int' has no len()
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 205, in refer_affliate
+    if len(program) == 0 or len(name) == 0:
+TypeError: object of type 'int' has no len()
+[DEBUG] : 2022-07-16 11:42:56,763: root:This method describes about the earning of affliate
+[DEBUG] : 2022-07-16 11:42:56,778: root:We are initialzing the Bank class
+[INFO] : 2022-07-16 11:42:56,778: root:bank info method describe about bank class
+[DEBUG] : 2022-07-16 11:51:14,908: root:Wer are initializing the private company
+[DEBUG] : 2022-07-16 11:51:14,908: root:company_info describe about information about company
+[DEBUG] : 2022-07-16 11:51:14,908: root:We are Initializing the Area method
+[INFO] : 2022-07-16 11:51:14,908: root:area_of_comp describe about the area of rectangle 
+[DEBUG] : 2022-07-16 11:51:14,908: root:this function is called from private method
+[DEBUG] : 2022-07-16 11:51:14,908: root:We are Initializing the Area method
+[INFO] : 2022-07-16 11:51:14,908: root:area_of_comp describe about the area of rectangle 
+[ERROR] : 2022-07-16 11:51:14,908: root:Entered values must be integers
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 59, in __area_of_comp
+    raise ValueError('Entered values must be integers')
+ValueError: Entered values must be integers
+[DEBUG] : 2022-07-16 11:51:14,908: root:Initializing the values outside of __init__
+[INFO] : 2022-07-16 11:51:14,908: root:name: Murali
+[INFO] : 2022-07-16 11:51:14,908: root:rollno423
+[INFO] : 2022-07-16 11:51:14,908: root:CourseFSDS
+[DEBUG] : 2022-07-16 11:51:14,908: root:We are initiating the Jobs class
+[INFO] : 2022-07-16 11:51:14,908: root:we initialized protected method
+[DEBUG] : 2022-07-16 11:51:14,908: root:We are initiating the Jobs class
+[INFO] : 2022-07-16 11:51:14,908: root:we initialized protected method
+[ERROR] : 2022-07-16 11:51:14,908: root:both values should be string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 102, in __job_info
+    raise ValueError('both values should be string')
+ValueError: both values should be string
+[DEBUG] : 2022-07-16 11:51:14,908: root:We are initializing employee class
+[INFO] : 2022-07-16 11:51:14,908: root:This method describe about the employee details
+[INFO] : 2022-07-16 11:51:14,908: root:This method describe about the employee info
+[INFO] : 2022-07-16 11:51:14,908: root:This method describe about the employee salary info
+[ERROR] : 2022-07-16 11:51:14,908: root:value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 135, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[INFO] : 2022-07-16 11:51:14,908: root:This method describe about the employee salary info
+[ERROR] : 2022-07-16 11:51:14,908: root:value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 135, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[DEBUG] : 2022-07-16 11:51:14,923: root:Initialize the Fruit class
+[INFO] : 2022-07-16 11:51:14,923: root:fruit info 
+[INFO] : 2022-07-16 11:51:14,923: root:This method describe about fruit details
+[INFO] : 2022-07-16 11:51:14,923: root:fruit info 
+[DEBUG] : 2022-07-16 11:51:14,923: root:Initialize the Fruit class
+[INFO] : 2022-07-16 11:51:14,923: root:This method describe about fruit details
+[INFO] : 2022-07-16 11:51:14,923: root:fruit info 
+[DEBUG] : 2022-07-16 11:51:14,923: root:We just initiated iNeuron Affliate
+[DEBUG] : 2022-07-16 11:51:14,923: root:This method describes about the refering of affliate
+[DEBUG] : 2022-07-16 11:51:14,923: root:This method describes about the refering of affliate
+[ERROR] : 2022-07-16 11:51:14,923: root:object of type 'int' has no len()
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 205, in refer_affliate
+    if len(program) == 0 or len(name) == 0:
+TypeError: object of type 'int' has no len()
+[DEBUG] : 2022-07-16 11:51:14,923: root:This method describes about the earning of affliate
+[DEBUG] : 2022-07-16 11:51:14,923: root:We are initialzing the Bank class
+[INFO] : 2022-07-16 11:51:14,923: root:bank info method describe about bank class
+[DEBUG] : 2022-07-16 11:51:14,923: root:Initializing with out init calss
+[DEBUG] : 2022-07-16 11:52:43,662: root:Wer are initializing the private company
+[DEBUG] : 2022-07-16 11:52:43,662: root:company_info describe about information about company
+[DEBUG] : 2022-07-16 11:52:43,662: root:We are Initializing the Area method
+[INFO] : 2022-07-16 11:52:43,662: root:area_of_comp describe about the area of rectangle 
+[DEBUG] : 2022-07-16 11:52:43,662: root:this function is called from private method
+[DEBUG] : 2022-07-16 11:52:43,662: root:We are Initializing the Area method
+[INFO] : 2022-07-16 11:52:43,662: root:area_of_comp describe about the area of rectangle 
+[ERROR] : 2022-07-16 11:52:43,662: root:Entered values must be integers
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 59, in __area_of_comp
+    raise ValueError('Entered values must be integers')
+ValueError: Entered values must be integers
+[DEBUG] : 2022-07-16 11:52:43,662: root:Initializing the values outside of __init__
+[INFO] : 2022-07-16 11:52:43,662: root:name: Murali
+[INFO] : 2022-07-16 11:52:43,662: root:rollno423
+[INFO] : 2022-07-16 11:52:43,662: root:CourseFSDS
+[DEBUG] : 2022-07-16 11:52:43,662: root:We are initiating the Jobs class
+[INFO] : 2022-07-16 11:52:43,662: root:we initialized protected method
+[DEBUG] : 2022-07-16 11:52:43,662: root:We are initiating the Jobs class
+[INFO] : 2022-07-16 11:52:43,662: root:we initialized protected method
+[ERROR] : 2022-07-16 11:52:43,662: root:both values should be string
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 102, in __job_info
+    raise ValueError('both values should be string')
+ValueError: both values should be string
+[DEBUG] : 2022-07-16 11:52:43,677: root:We are initializing employee class
+[INFO] : 2022-07-16 11:52:43,677: root:This method describe about the employee details
+[INFO] : 2022-07-16 11:52:43,677: root:This method describe about the employee info
+[INFO] : 2022-07-16 11:52:43,677: root:This method describe about the employee salary info
+[ERROR] : 2022-07-16 11:52:43,677: root:value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 135, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[INFO] : 2022-07-16 11:52:43,677: root:This method describe about the employee salary info
+[ERROR] : 2022-07-16 11:52:43,677: root:value should be integer
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 135, in _emp_salary
+    raise ValueError('value should be integer')
+ValueError: value should be integer
+[DEBUG] : 2022-07-16 11:52:43,677: root:Initialize the Fruit class
+[INFO] : 2022-07-16 11:52:43,677: root:fruit info 
+[INFO] : 2022-07-16 11:52:43,677: root:This method describe about fruit details
+[INFO] : 2022-07-16 11:52:43,677: root:fruit info 
+[DEBUG] : 2022-07-16 11:52:43,677: root:Initialize the Fruit class
+[INFO] : 2022-07-16 11:52:43,677: root:This method describe about fruit details
+[INFO] : 2022-07-16 11:52:43,677: root:fruit info 
+[DEBUG] : 2022-07-16 11:52:43,677: root:We just initiated iNeuron Affliate
+[DEBUG] : 2022-07-16 11:52:43,677: root:This method describes about the refering of affliate
+[DEBUG] : 2022-07-16 11:52:43,677: root:This method describes about the refering of affliate
+[ERROR] : 2022-07-16 11:52:43,677: root:object of type 'int' has no len()
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\OOPS_Task\private.py", line 205, in refer_affliate
+    if len(program) == 0 or len(name) == 0:
+TypeError: object of type 'int' has no len()
+[DEBUG] : 2022-07-16 11:52:43,677: root:This method describes about the earning of affliate
+[DEBUG] : 2022-07-16 11:52:43,677: root:We are initialzing the Bank class
+[INFO] : 2022-07-16 11:52:43,677: root:bank info method describe about bank class
+[DEBUG] : 2022-07-16 11:52:43,677: root:Initializing with out init class
+[INFO] : 2022-07-16 11:52:43,677: root:info describe about the country 
